@@ -30,10 +30,10 @@
     "id": "ab-test-setup",
     "path": "skills/ab-test-setup",
     "category": "uncategorized",
-    "name": "ab-test-setup",
-    "description": "Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.",
+    "name": "Ab Test Setup",
+    "description": "You are an expert in experimentation and A/B testing. Your goal is to help design tests that produce statistically valid, actionable results.",
     "risk": "unknown",
-    "source": "community"
+    "source": "unknown"
   },
   {
     "id": "accessibility-compliance-accessibility-audit",
@@ -61,6 +61,15 @@
     "description": "Automate ActiveCampaign tasks via Rube MCP (Composio): manage contacts, tags, list subscriptions, automation enrollment, and tasks. Always search tools first for current schemas.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "ad-creative",
+    "path": "skills/ad-creative",
+    "category": "uncategorized",
+    "name": "ad-creative",
+    "description": "When the user wants to generate, iterate, or scale ad creative \u2014 headlines, descriptions, primary text, or full ad variations \u2014 for any paid advertising platform.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "address-github-comments",
@@ -198,6 +207,15 @@
     "source": "vibeship-spawner-skills (Apache 2.0)"
   },
   {
+    "id": "ai-seo",
+    "path": "skills/ai-seo",
+    "category": "uncategorized",
+    "name": "ai-seo",
+    "description": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "ai-wrapper-product",
     "path": "skills/ai-wrapper-product",
     "category": "uncategorized",
@@ -256,7 +274,7 @@
     "path": "skills/analytics-tracking",
     "category": "uncategorized",
     "name": "Analytics Tracking",
-    "description": "You are an expert in **analytics implementation and measurement design**. Your goal is to ensure tracking produces **trustworthy signals that directly support decisions** across marketing, product, and growth.",
+    "description": "You are an expert in analytics implementation and measurement. Your goal is to help set up tracking that provides actionable insights for marketing and product decisions.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -333,15 +351,6 @@
     "source": "self"
   },
   {
-    "id": "api-documenter",
-    "path": "skills/api-documenter",
-    "category": "uncategorized",
-    "name": "Api Documenter",
-    "description": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "api-design-principles",
     "path": "skills/api-design-principles",
     "category": "uncategorized",
@@ -349,6 +358,15 @@
     "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "api-designer",
+    "path": "skills/api-designer",
+    "category": "uncategorized",
+    "name": "api-designer",
+    "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "api-documentation",
@@ -367,6 +385,15 @@
     "description": "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "api-documenter",
+    "path": "skills/api-documenter",
+    "category": "uncategorized",
+    "name": "api-documenter",
+    "description": "Use this agent when creating or improving API documentation, writing OpenAPI specifications, building interactive documentation portals, or generating code examples for APIs.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "api-fuzzing-bug-bounty",
@@ -583,6 +610,15 @@
     "description": "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "awesome-nano-banana-pro-prompts",
+    "path": "skills/awesome-nano-banana-pro-prompts",
+    "category": "uncategorized",
+    "name": "awesome-nano-banana-pro-prompts",
+    "description": "Curated community library of 10,000+ Nano Banana Pro (Gemini multimodal) prompts across diverse styles and use cases. Multi-language support for 16 languages.",
+    "risk": "safe",
+    "source": "YouMind-OpenLab/awesome-nano-banana-pro-prompts (CC BY 4.0)"
   },
   {
     "id": "aws-compliance-checker",
@@ -1746,6 +1782,15 @@
     "source": "community"
   },
   {
+    "id": "backend-developer",
+    "path": "skills/backend-developer",
+    "category": "uncategorized",
+    "name": "backend-developer",
+    "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "backend-development-feature-development",
     "path": "skills/backend-development-feature-development",
     "category": "uncategorized",
@@ -1902,10 +1947,10 @@
     "id": "blockchain-developer",
     "path": "skills/blockchain-developer",
     "category": "uncategorized",
-    "name": "Blockchain Developer",
-    "description": "- Working on blockchain developer tasks or workflows - Needing guidance, best practices, or checklists for blockchain developer",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "blockchain-developer",
+    "description": "Use this agent when building smart contracts, DApps, and blockchain protocols that require expertise in Solidity, gas optimization, security auditing, and Web3 integration.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "blockrun",
@@ -2223,6 +2268,15 @@
     "source": "community"
   },
   {
+    "id": "churn-prevention",
+    "path": "skills/churn-prevention",
+    "category": "uncategorized",
+    "name": "churn-prevention",
+    "description": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "cicd-automation-workflow-automate",
     "path": "skills/cicd-automation-workflow-automate",
     "category": "uncategorized",
@@ -2502,6 +2556,15 @@
     "source": "community"
   },
   {
+    "id": "cold-email",
+    "path": "skills/cold-email",
+    "category": "uncategorized",
+    "name": "cold-email",
+    "description": "Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails, prospecting emails, cold email campaigns, sales development emails, or SDR.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "commit",
     "path": "skills/commit",
     "category": "uncategorized",
@@ -2520,13 +2583,22 @@
     "source": "unknown"
   },
   {
+    "id": "competitive-analyst",
+    "path": "skills/competitive-analyst",
+    "category": "uncategorized",
+    "name": "competitive-analyst",
+    "description": "Use when you need to analyze direct and indirect competitors, benchmark against market leaders, or develop strategies to strengthen competitive positioning and market advantage.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "competitor-alternatives",
     "path": "skills/competitor-alternatives",
     "category": "uncategorized",
     "name": "competitor-alternatives",
-    "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'compa...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "comprehensive-review-full-review",
@@ -2664,6 +2736,15 @@
     "source": "community"
   },
   {
+    "id": "content-strategy",
+    "path": "skills/content-strategy",
+    "category": "uncategorized",
+    "name": "content-strategy",
+    "description": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "context-driven-development",
     "path": "skills/context-driven-development",
     "category": "uncategorized",
@@ -2785,18 +2866,18 @@
     "path": "skills/copy-editing",
     "category": "uncategorized",
     "name": "copy-editing",
-    "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this ...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "copywriting",
     "path": "skills/copywriting",
     "category": "uncategorized",
-    "name": "Copywriting",
-    "description": "Produce **clear, credible, and action-oriented marketing copy** that aligns with user intent and business goals.",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "copywriting",
+    "description": "When the user wants to write, rewrite, or improve marketing copy for any page \u2014 including homepage, landing pages, pricing pages, feature pages, about pages, or product pages.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "core-components",
@@ -2941,6 +3022,15 @@
     "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "data-researcher",
+    "path": "skills/data-researcher",
+    "category": "uncategorized",
+    "name": "data-researcher",
+    "description": "Use this agent when you need to discover, collect, and validate data from multiple sources to fuel analysis and decision-making.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "data-storytelling",
@@ -3456,6 +3546,15 @@
     "source": "community"
   },
   {
+    "id": "electron-pro",
+    "path": "skills/electron-pro",
+    "category": "uncategorized",
+    "name": "electron-pro",
+    "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "elixir-pro",
     "path": "skills/elixir-pro",
     "category": "uncategorized",
@@ -3469,9 +3568,9 @@
     "path": "skills/email-sequence",
     "category": "uncategorized",
     "name": "email-sequence",
-    "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campa...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "email-systems",
@@ -3481,6 +3580,15 @@
     "description": "Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders.  This skill cov...",
     "risk": "unknown",
     "source": "vibeship-spawner-skills (Apache 2.0)"
+  },
+  {
+    "id": "embedded-systems",
+    "path": "skills/embedded-systems",
+    "category": "uncategorized",
+    "name": "embedded-systems",
+    "description": "Use when developing firmware for resource-constrained microcontrollers, implementing RTOS-based applications, or optimizing real-time systems where hardware constraints, latency guarantees, and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "embedding-strategies",
@@ -3789,6 +3897,15 @@
     "source": "community"
   },
   {
+    "id": "fintech-engineer",
+    "path": "skills/fintech-engineer",
+    "category": "uncategorized",
+    "name": "fintech-engineer",
+    "description": "Use when building payment systems, financial integrations, or compliance-heavy financial applications that require secure transaction processing, regulatory adherence, and high transaction accuracy.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "firebase",
     "path": "skills/firebase",
     "category": "uncategorized",
@@ -3837,10 +3954,10 @@
     "id": "form-cro",
     "path": "skills/form-cro",
     "category": "uncategorized",
-    "name": "Form Cro",
-    "description": "You are an expert in **form optimization and friction reduction**. Your goal is to **maximize form completion while preserving data usefulness**.",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "form-cro",
+    "description": "When the user wants to optimize any form that is NOT signup/registration \u2014 including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "fp-ts-errors",
@@ -3901,9 +4018,9 @@
     "path": "skills/free-tool-strategy",
     "category": "uncategorized",
     "name": "free-tool-strategy",
-    "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes \u2014 lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as mar...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes \u2014 lead generation, SEO value, or brand awareness.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "freshdesk-automation",
@@ -3922,15 +4039,6 @@
     "description": "Automate Freshservice ITSM tasks via Rube MCP (Composio): create/update tickets, bulk operations, service requests, and outbound emails. Always search tools first for current schemas.",
     "risk": "unknown",
     "source": "community"
-  },
-  {
-    "id": "frontend-developer",
-    "path": "skills/frontend-developer",
-    "category": "uncategorized",
-    "name": "Frontend Developer",
-    "description": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.",
-    "risk": "unknown",
-    "source": "unknown"
   },
   {
     "id": "frontend-security-coder",
@@ -3958,6 +4066,15 @@
     "description": "Opinionated frontend development standards for modern React + TypeScript applications. Covers Suspense-first data fetching, lazy loading, feature-based architecture, MUI v7 styling, TanStack Router...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "frontend-developer",
+    "path": "skills/frontend-developer",
+    "category": "uncategorized",
+    "name": "frontend-developer",
+    "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "frontend-mobile-development-component-scaffold",
@@ -4005,6 +4122,15 @@
     "source": "community"
   },
   {
+    "id": "fullstack-developer",
+    "path": "skills/fullstack-developer",
+    "category": "uncategorized",
+    "name": "fullstack-developer",
+    "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "game-art",
     "path": "skills/game-development/game-art",
     "category": "game-development",
@@ -4030,6 +4156,15 @@
     "description": "Game design principles. GDD structure, balancing, player psychology, progression.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "game-developer",
+    "path": "skills/game-developer",
+    "category": "uncategorized",
+    "name": "game-developer",
+    "description": "Use this agent when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games targeting specific platforms.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "game-development",
@@ -4305,10 +4440,10 @@
     "id": "graphql-architect",
     "path": "skills/graphql-architect",
     "category": "uncategorized",
-    "name": "Graphql Architect",
-    "description": "- Working on graphql architect tasks or workflows - Needing guidance, best practices, or checklists for graphql architect",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "graphql-architect",
+    "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "haskell-pro",
@@ -4698,6 +4833,15 @@
     "source": "unknown"
   },
   {
+    "id": "iot-engineer",
+    "path": "skills/iot-engineer",
+    "category": "uncategorized",
+    "name": "iot-engineer",
+    "description": "Use when designing and deploying IoT solutions requiring expertise in device management, edge computing, cloud integration, and handling challenges like massive device scale, complex connectivity.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "istio-traffic-management",
     "path": "skills/istio-traffic-management",
     "category": "uncategorized",
@@ -4909,9 +5053,9 @@
     "path": "skills/launch-strategy",
     "category": "uncategorized",
     "name": "launch-strategy",
-    "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,'...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,'.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "legacy-modernizer",
@@ -5085,6 +5229,15 @@
     "source": "unknown"
   },
   {
+    "id": "m365-admin",
+    "path": "skills/m365-admin",
+    "category": "uncategorized",
+    "name": "m365-admin",
+    "description": "Use when automating Microsoft 365 administrative tasks including Exchange Online mailbox provisioning, Teams collaboration management, SharePoint site configuration, license lifecycle management, and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "machine-learning-ops-ml-pipeline",
     "path": "skills/machine-learning-ops-ml-pipeline",
     "category": "uncategorized",
@@ -5148,22 +5301,31 @@
     "source": "unknown"
   },
   {
+    "id": "market-researcher",
+    "path": "skills/market-researcher",
+    "category": "uncategorized",
+    "name": "market-researcher",
+    "description": "Use this agent when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy and market entry decisions.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "marketing-ideas",
     "path": "skills/marketing-ideas",
     "category": "uncategorized",
     "name": "marketing-ideas",
-    "description": "Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "marketing-psychology",
     "path": "skills/marketing-psychology",
     "category": "uncategorized",
     "name": "marketing-psychology",
-    "description": "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to apply psychological principles, mental models, or behavioral science to marketing.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "mcp-builder",
@@ -5236,6 +5398,15 @@
     "description": "Expert in launching small, focused SaaS products fast - the indie hacker approach to building profitable software. Covers idea validation, MVP development, pricing, launch strategies, and growing t...",
     "risk": "unknown",
     "source": "vibeship-spawner-skills (Apache 2.0)"
+  },
+  {
+    "id": "microservices-architect",
+    "path": "skills/microservices-architect",
+    "category": "uncategorized",
+    "name": "microservices-architect",
+    "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "microservices-patterns",
@@ -5319,15 +5490,6 @@
     "source": "unknown"
   },
   {
-    "id": "mobile-developer",
-    "path": "skills/mobile-developer",
-    "category": "uncategorized",
-    "name": "Mobile Developer",
-    "description": "- Working on mobile developer tasks or workflows - Needing guidance, best practices, or checklists for mobile developer",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "mobile-security-coder",
     "path": "skills/mobile-security-coder",
     "category": "uncategorized",
@@ -5337,6 +5499,15 @@
     "source": "unknown"
   },
   {
+    "id": "mobile-app-developer",
+    "path": "skills/mobile-app-developer",
+    "category": "uncategorized",
+    "name": "mobile-app-developer",
+    "description": "Use this agent when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform-specific user experience.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "mobile-design",
     "path": "skills/mobile-design",
     "category": "uncategorized",
@@ -5344,6 +5515,15 @@
     "description": "Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches pr...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "mobile-developer",
+    "path": "skills/mobile-developer",
+    "category": "uncategorized",
+    "name": "mobile-developer",
+    "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "mobile-games",
@@ -5479,6 +5659,15 @@
     "description": "Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning commo...",
     "risk": "safe",
     "source": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration"
+  },
+  {
+    "id": "nano-banana-pro-prompts-recommend-skill",
+    "path": "skills/nano-banana-pro-prompts-recommend-skill",
+    "category": "uncategorized",
+    "name": "nano-banana-pro-prompts-recommend-skill",
+    "description": "Recommends AI image generation prompts from a 10,000+ curated library (Nano Banana Pro / Gemini). Supports semantic search, content remix, and multi-language responses.",
+    "risk": "safe",
+    "source": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill (MIT)"
   },
   {
     "id": "nanobanana-ppt-skills",
@@ -5710,9 +5899,9 @@
     "path": "skills/onboarding-cro",
     "category": "uncategorized",
     "name": "onboarding-cro",
-    "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions \"onboarding flow,\" \"activation rate,\" \"u...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "one-drive-automation",
@@ -5772,10 +5961,10 @@
     "id": "page-cro",
     "path": "skills/page-cro",
     "category": "uncategorized",
-    "name": "Page Cro",
-    "description": "You are an expert in **page-level conversion optimization**. Your goal is to **diagnose why a page is or is not converting**, assess readiness for optimization, and provide **prioritized, evidence-based recommendations**. You do **not** guarantee con",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "page-cro",
+    "description": "When the user wants to optimize, improve, or increase conversions on any marketing page \u2014 including homepage, landing pages, pricing pages, feature pages, or blog posts.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "pagerduty-automation",
@@ -5791,9 +5980,9 @@
     "path": "skills/paid-ads",
     "category": "uncategorized",
     "name": "paid-ads",
-    "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' '...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "parallel-agents",
@@ -5808,10 +5997,10 @@
     "id": "payment-integration",
     "path": "skills/payment-integration",
     "category": "uncategorized",
-    "name": "Payment Integration",
-    "description": "- Working on payment integration tasks or workflows - Needing guidance, best practices, or checklists for payment integration",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "payment-integration",
+    "description": "Use this agent when implementing payment systems, integrating payment gateways, or handling financial transactions that require PCI compliance, fraud prevention, and secure transaction processing.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "paypal-integration",
@@ -5827,9 +6016,9 @@
     "path": "skills/paywall-upgrade-cro",
     "category": "uncategorized",
     "name": "paywall-upgrade-cro",
-    "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "pc-games",
@@ -5989,9 +6178,9 @@
     "path": "skills/popup-cro",
     "category": "uncategorized",
     "name": "popup-cro",
-    "description": "Create and optimize popups, modals, overlays, slide-ins, and banners to increase conversions without harming user experience or brand trust.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "posix-shell-pro",
@@ -6079,9 +6268,9 @@
     "path": "skills/pricing-strategy",
     "category": "uncategorized",
     "name": "pricing-strategy",
-    "description": "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "prisma-expert",
@@ -6111,6 +6300,15 @@
     "source": "community"
   },
   {
+    "id": "product-marketing-context",
+    "path": "skills/product-marketing-context",
+    "category": "uncategorized",
+    "name": "product-marketing-context",
+    "description": "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' or wants to.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "production-code-audit",
     "path": "skills/production-code-audit",
     "category": "uncategorized",
@@ -6124,7 +6322,7 @@
     "path": "skills/programmatic-seo",
     "category": "uncategorized",
     "name": "Programmatic Seo",
-    "description": "---",
+    "description": "You are an expert in programmatic SEO\u2014building SEO-optimized pages at scale using templates and data. Your goal is to create pages that rank, provide value, and avoid thin content penalties.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -6285,10 +6483,10 @@
     "id": "quant-analyst",
     "path": "skills/quant-analyst",
     "category": "uncategorized",
-    "name": "Quant Analyst",
-    "description": "- Working on quant analyst tasks or workflows - Needing guidance, best practices, or checklists for quant analyst",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "quant-analyst",
+    "description": "Use this agent when you need to develop quantitative trading strategies, build financial models with rigorous mathematical foundations, or conduct advanced risk analytics for derivatives and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "radix-ui-design-system",
@@ -6457,9 +6655,9 @@
     "path": "skills/referral-program",
     "category": "uncategorized",
     "name": "referral-program",
-    "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "remotion-best-practices",
@@ -6489,6 +6687,15 @@
     "source": "community"
   },
   {
+    "id": "research-analyst",
+    "path": "skills/research-analyst",
+    "category": "uncategorized",
+    "name": "research-analyst",
+    "description": "Use this agent when you need comprehensive research across multiple sources with synthesis of findings into actionable insights, trend identification, and detailed reporting.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "research-engineer",
     "path": "skills/research-engineer",
     "category": "uncategorized",
@@ -6507,13 +6714,22 @@
     "source": "unknown"
   },
   {
+    "id": "revops",
+    "path": "skills/revops",
+    "category": "uncategorized",
+    "name": "revops",
+    "description": "When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "risk-manager",
     "path": "skills/risk-manager",
     "category": "uncategorized",
-    "name": "Risk Manager",
-    "description": "- Working on risk manager tasks or workflows - Needing guidance, best practices, or checklists for risk manager",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "risk-manager",
+    "description": "Use this agent when you need to identify, quantify, and mitigate enterprise-level risks across financial, operational, regulatory, and strategic domains.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "risk-metrics-calculation",
@@ -6570,6 +6786,15 @@
     "source": "unknown"
   },
   {
+    "id": "sales-enablement",
+    "path": "skills/sales-enablement",
+    "category": "uncategorized",
+    "name": "sales-enablement",
+    "description": "When the user wants to create sales collateral, pitch decks, one-pagers, objection handling docs, or demo scripts.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "salesforce-automation",
     "path": "skills/salesforce-automation",
     "category": "uncategorized",
@@ -6619,7 +6844,7 @@
     "path": "skills/schema-markup",
     "category": "uncategorized",
     "name": "Schema Markup",
-    "description": "---",
+    "description": "You are an expert in structured data and schema markup. Your goal is to implement schema.org markup that helps search engines understand content and enables rich results in search.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -6655,9 +6880,9 @@
     "path": "skills/search-specialist",
     "category": "uncategorized",
     "name": "search-specialist",
-    "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "Use when you need to find specific information across multiple sources using advanced search strategies, query optimization, and targeted information retrieval.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "secrets-management",
@@ -6799,7 +7024,7 @@
     "path": "skills/seo-audit",
     "category": "uncategorized",
     "name": "Seo Audit",
-    "description": "You are an **SEO diagnostic specialist**. Your role is to **identify, explain, and prioritize SEO issues** that affect organic visibility\u2014**not to implement fixes unless explicitly requested**.",
+    "description": "You are an expert in search engine optimization. Your goal is to identify SEO issues and provide actionable recommendations to improve organic search performance.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -6903,6 +7128,15 @@
     "source": "unknown"
   },
   {
+    "id": "seo-specialist",
+    "path": "skills/seo-specialist",
+    "category": "uncategorized",
+    "name": "seo-specialist",
+    "description": "Use this agent when you need comprehensive SEO optimization encompassing technical audits, keyword strategy, content optimization, and search rankings improvement.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "server-management",
     "path": "skills/server-management",
     "category": "uncategorized",
@@ -6996,10 +7230,10 @@
     "id": "signup-flow-cro",
     "path": "skills/signup-flow-cro",
     "category": "uncategorized",
-    "name": "signup-flow-cro",
-    "description": "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup...",
+    "name": "Signup Flow Cro",
+    "description": "You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.",
     "risk": "unknown",
-    "source": "community"
+    "source": "unknown"
   },
   {
     "id": "similarity-search-patterns",
@@ -7009,6 +7243,15 @@
     "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "site-architecture",
+    "path": "skills/site-architecture",
+    "category": "uncategorized",
+    "name": "site-architecture",
+    "description": "When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal linking.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "skill-creator",
@@ -7105,9 +7348,9 @@
     "path": "skills/social-content",
     "category": "uncategorized",
     "name": "social-content",
-    "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "software-architecture",
@@ -7297,6 +7540,15 @@
     "description": "Automate Supabase database queries, table management, project administration, storage, edge functions, and SQL execution via Rube MCP (Composio). Always search tools first for current schemas.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "superdesign",
+    "path": "skills/superdesign",
+    "category": "uncategorized",
+    "name": "superdesign",
+    "description": "Frontend UI/UX design agent that generates and iterates design drafts on an infinite canvas. Requires @superdesign/cli installed and authenticated.",
+    "risk": "safe",
+    "source": "superdesigndev/superdesign-skill (see repo)"
   },
   {
     "id": "superpowers-lab",
@@ -7677,6 +7929,15 @@
     "source": "community"
   },
   {
+    "id": "trend-analyst",
+    "path": "skills/trend-analyst",
+    "category": "uncategorized",
+    "name": "trend-analyst",
+    "description": "Use when analyzing emerging patterns, predicting industry shifts, or developing future scenarios to inform strategic planning and competitive positioning.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "trigger-dev",
     "path": "skills/trigger-dev",
     "category": "uncategorized",
@@ -7765,6 +8026,15 @@
     "description": "- Working on ui visual validator tasks or workflows - Needing guidance, best practices, or checklists for ui visual validator",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "ui-designer",
+    "path": "skills/ui-designer",
+    "category": "uncategorized",
+    "name": "ui-designer",
+    "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "ui-skills",
@@ -8080,6 +8350,15 @@
     "description": "Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first for current schemas.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "websocket-engineer",
+    "path": "skills/websocket-engineer",
+    "category": "uncategorized",
+    "name": "websocket-engineer",
+    "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "whatsapp-automation",

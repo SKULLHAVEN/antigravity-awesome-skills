@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 930,
+  "total": 958,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -31,7 +31,7 @@
     {
       "id": "ab-test-setup",
       "name": "ab-test-setup",
-      "description": "Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.",
+      "description": "When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions",
       "category": "testing",
       "tags": [
         "ab",
@@ -41,15 +41,11 @@
         "ab",
         "setup",
         "test",
-        "structured",
-        "setting",
-        "up",
-        "tests",
-        "mandatory",
-        "gates",
-        "hypothesis",
-        "metrics",
-        "execution"
+        "user",
+        "wants",
+        "plan",
+        "experiment",
+        "mentions"
       ],
       "path": "skills/ab-test-setup/SKILL.md"
     },
@@ -128,6 +124,31 @@
         "subscriptions"
       ],
       "path": "skills/activecampaign-automation/SKILL.md"
+    },
+    {
+      "id": "ad-creative",
+      "name": "ad-creative",
+      "description": "When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform.",
+      "category": "general",
+      "tags": [
+        "ad",
+        "creative"
+      ],
+      "triggers": [
+        "ad",
+        "creative",
+        "user",
+        "wants",
+        "generate",
+        "iterate",
+        "scale",
+        "headlines",
+        "descriptions",
+        "primary",
+        "text",
+        "full"
+      ],
+      "path": "skills/ad-creative/SKILL.md"
     },
     {
       "id": "address-github-comments",
@@ -502,6 +523,31 @@
       "path": "skills/ai-product/SKILL.md"
     },
     {
+      "id": "ai-seo",
+      "name": "ai-seo",
+      "description": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers.",
+      "category": "data-ai",
+      "tags": [
+        "ai",
+        "seo"
+      ],
+      "triggers": [
+        "ai",
+        "seo",
+        "user",
+        "wants",
+        "optimize",
+        "content",
+        "search",
+        "engines",
+        "get",
+        "cited",
+        "llms",
+        "appear"
+      ],
+      "path": "skills/ai-seo/SKILL.md"
+    },
+    {
       "id": "ai-wrapper-product",
       "name": "ai-wrapper-product",
       "description": "Expert in building products that wrap AI APIs (OpenAI, Anthropic, etc.) into focused tools people will pay for. Not just 'ChatGPT but different' - products that solve specific problems with AI. Cov...",
@@ -651,7 +697,7 @@
     {
       "id": "analytics-tracking",
       "name": "analytics-tracking",
-      "description": ">",
+      "description": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions",
       "category": "data-ai",
       "tags": [
         "analytics",
@@ -659,7 +705,15 @@
       ],
       "triggers": [
         "analytics",
-        "tracking"
+        "tracking",
+        "user",
+        "wants",
+        "set",
+        "up",
+        "improve",
+        "audit",
+        "measurement",
+        "mentions"
       ],
       "path": "skills/analytics-tracking/SKILL.md"
     },
@@ -878,6 +932,31 @@
       "path": "skills/api-design-principles/SKILL.md"
     },
     {
+      "id": "api-designer",
+      "name": "api-designer",
+      "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience.",
+      "category": "development",
+      "tags": [
+        "api",
+        "designer"
+      ],
+      "triggers": [
+        "api",
+        "designer",
+        "agent",
+        "designing",
+        "new",
+        "apis",
+        "creating",
+        "specifications",
+        "refactoring",
+        "existing",
+        "architecture",
+        "scalability"
+      ],
+      "path": "skills/api-designer/SKILL.md"
+    },
+    {
       "id": "api-documentation",
       "name": "api-documentation",
       "description": "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.",
@@ -927,8 +1006,8 @@
     {
       "id": "api-documenter",
       "name": "api-documenter",
-      "description": "Master API documentation with OpenAPI 3.1, AI-powered tools, and",
-      "category": "data-ai",
+      "description": "Use this agent when creating or improving API documentation, writing OpenAPI specifications, building interactive documentation portals, or generating code examples for APIs.",
+      "category": "development",
       "tags": [
         "api",
         "documenter"
@@ -936,10 +1015,16 @@
       "triggers": [
         "api",
         "documenter",
+        "agent",
+        "creating",
+        "improving",
         "documentation",
+        "writing",
         "openapi",
-        "ai",
-        "powered"
+        "specifications",
+        "building",
+        "interactive",
+        "portals"
       ],
       "path": "skills/api-documenter/SKILL.md"
     },
@@ -4223,6 +4308,30 @@
       "path": "skills/backend-dev-guidelines/SKILL.md"
     },
     {
+      "id": "backend-developer",
+      "name": "backend-developer",
+      "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
+      "category": "development",
+      "tags": [
+        "backend"
+      ],
+      "triggers": [
+        "backend",
+        "developer",
+        "agent",
+        "building",
+        "server",
+        "side",
+        "apis",
+        "microservices",
+        "require",
+        "robust",
+        "architecture",
+        "scalability"
+      ],
+      "path": "skills/backend-developer/SKILL.md"
+    },
+    {
       "id": "backend-development-feature-development",
       "name": "backend-development-feature-development",
       "description": "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services.",
@@ -4627,18 +4736,24 @@
     {
       "id": "blockchain-developer",
       "name": "blockchain-developer",
-      "description": "Build production-ready Web3 applications, smart contracts, and",
-      "category": "general",
+      "description": "Use this agent when building smart contracts, DApps, and blockchain protocols that require expertise in Solidity, gas optimization, security auditing, and Web3 integration.",
+      "category": "security",
       "tags": [
         "blockchain"
       ],
       "triggers": [
         "blockchain",
         "developer",
-        "web3",
-        "applications",
+        "agent",
+        "building",
         "smart",
-        "contracts"
+        "contracts",
+        "dapps",
+        "protocols",
+        "require",
+        "expertise",
+        "solidity",
+        "gas"
       ],
       "path": "skills/blockchain-developer/SKILL.md"
     },
@@ -5442,6 +5557,31 @@
       "path": "skills/changelog-automation/SKILL.md"
     },
     {
+      "id": "churn-prevention",
+      "name": "churn-prevention",
+      "description": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies.",
+      "category": "general",
+      "tags": [
+        "churn",
+        "prevention"
+      ],
+      "triggers": [
+        "churn",
+        "prevention",
+        "user",
+        "wants",
+        "reduce",
+        "cancellation",
+        "flows",
+        "set",
+        "up",
+        "save",
+        "offers",
+        "recover"
+      ],
+      "path": "skills/churn-prevention/SKILL.md"
+    },
+    {
       "id": "cicd-automation-workflow-automate",
       "name": "cicd-automation-workflow-automate",
       "description": "You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design automation that reduces manual work, i...",
@@ -6202,6 +6342,31 @@
       "path": "skills/codex-review/SKILL.md"
     },
     {
+      "id": "cold-email",
+      "name": "cold-email",
+      "description": "Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails, prospecting emails, cold email campaigns, sales development emails, or SDR.",
+      "category": "business",
+      "tags": [
+        "cold",
+        "email"
+      ],
+      "triggers": [
+        "cold",
+        "email",
+        "write",
+        "b2b",
+        "emails",
+        "follow",
+        "up",
+        "sequences",
+        "get",
+        "replies",
+        "user",
+        "wants"
+      ],
+      "path": "skills/cold-email/SKILL.md"
+    },
+    {
       "id": "commit",
       "name": "commit",
       "description": "Create commit messages following Sentry conventions. Use when committing code changes, writing commit messages, or formatting git history. Follows conventional commits with Sentry-specific issue re...",
@@ -6224,6 +6389,31 @@
         "history"
       ],
       "path": "skills/commit/SKILL.md"
+    },
+    {
+      "id": "competitive-analyst",
+      "name": "competitive-analyst",
+      "description": "Use when you need to analyze direct and indirect competitors, benchmark against market leaders, or develop strategies to strengthen competitive positioning and market advantage.",
+      "category": "business",
+      "tags": [
+        "competitive",
+        "analyst"
+      ],
+      "triggers": [
+        "competitive",
+        "analyst",
+        "analyze",
+        "direct",
+        "indirect",
+        "competitors",
+        "benchmark",
+        "against",
+        "market",
+        "leaders",
+        "develop",
+        "strengthen"
+      ],
+      "path": "skills/competitive-analyst/SKILL.md"
     },
     {
       "id": "competitive-landscape",
@@ -6249,7 +6439,7 @@
     {
       "id": "competitor-alternatives",
       "name": "competitor-alternatives",
-      "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'compa...",
+      "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement.",
       "category": "business",
       "tags": [
         "competitor",
@@ -6265,9 +6455,7 @@
         "pages",
         "seo",
         "sales",
-        "enablement",
-        "mentions",
-        "page"
+        "enablement"
       ],
       "path": "skills/competitor-alternatives/SKILL.md"
     },
@@ -6605,6 +6793,27 @@
       "path": "skills/content-marketer/SKILL.md"
     },
     {
+      "id": "content-strategy",
+      "name": "content-strategy",
+      "description": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover.",
+      "category": "general",
+      "tags": [
+        "content"
+      ],
+      "triggers": [
+        "content",
+        "user",
+        "wants",
+        "plan",
+        "decide",
+        "what",
+        "figure",
+        "topics",
+        "cover"
+      ],
+      "path": "skills/content-strategy/SKILL.md"
+    },
+    {
       "id": "context-compression",
       "name": "context-compression",
       "description": "Design and evaluate compression strategies for long-running sessions",
@@ -6875,7 +7084,7 @@
     {
       "id": "copy-editing",
       "name": "copy-editing",
-      "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this ...",
+      "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this.",
       "category": "business",
       "tags": [
         "copy",
@@ -6900,13 +7109,24 @@
     {
       "id": "copywriting",
       "name": "copywriting",
-      "description": ">",
-      "category": "general",
+      "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages.",
+      "category": "business",
       "tags": [
         "copywriting"
       ],
       "triggers": [
-        "copywriting"
+        "copywriting",
+        "user",
+        "wants",
+        "write",
+        "rewrite",
+        "improve",
+        "marketing",
+        "copy",
+        "any",
+        "page",
+        "including",
+        "homepage"
       ],
       "path": "skills/copywriting/SKILL.md"
     },
@@ -7255,6 +7475,31 @@
         "implementing"
       ],
       "path": "skills/data-quality-frameworks/SKILL.md"
+    },
+    {
+      "id": "data-researcher",
+      "name": "data-researcher",
+      "description": "Use this agent when you need to discover, collect, and validate data from multiple sources to fuel analysis and decision-making.",
+      "category": "data-ai",
+      "tags": [
+        "data",
+        "researcher"
+      ],
+      "triggers": [
+        "data",
+        "researcher",
+        "agent",
+        "discover",
+        "collect",
+        "validate",
+        "multiple",
+        "sources",
+        "fuel",
+        "analysis",
+        "decision",
+        "making"
+      ],
+      "path": "skills/data-researcher/SKILL.md"
     },
     {
       "id": "data-scientist",
@@ -8590,6 +8835,30 @@
       "path": "skills/e2e-testing-patterns/SKILL.md"
     },
     {
+      "id": "electron-pro",
+      "name": "electron-pro",
+      "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization.",
+      "category": "security",
+      "tags": [
+        "electron"
+      ],
+      "triggers": [
+        "electron",
+        "pro",
+        "agent",
+        "building",
+        "desktop",
+        "applications",
+        "require",
+        "native",
+        "os",
+        "integration",
+        "cross",
+        "platform"
+      ],
+      "path": "skills/electron-pro/SKILL.md"
+    },
+    {
       "id": "elixir-pro",
       "name": "elixir-pro",
       "description": "Write idiomatic Elixir code with OTP patterns, supervision trees,",
@@ -8612,7 +8881,7 @@
     {
       "id": "email-sequence",
       "name": "email-sequence",
-      "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campa...",
+      "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program.",
       "category": "general",
       "tags": [
         "email",
@@ -8629,8 +8898,7 @@
         "automated",
         "flow",
         "lifecycle",
-        "program",
-        "mentions"
+        "program"
       ],
       "path": "skills/email-sequence/SKILL.md"
     },
@@ -8657,6 +8925,30 @@
         "startups"
       ],
       "path": "skills/email-systems/SKILL.md"
+    },
+    {
+      "id": "embedded-systems",
+      "name": "embedded-systems",
+      "description": "Use when developing firmware for resource-constrained microcontrollers, implementing RTOS-based applications, or optimizing real-time systems where hardware constraints, latency guarantees, and.",
+      "category": "general",
+      "tags": [
+        "embedded"
+      ],
+      "triggers": [
+        "embedded",
+        "developing",
+        "firmware",
+        "resource",
+        "constrained",
+        "microcontrollers",
+        "implementing",
+        "rtos",
+        "applications",
+        "optimizing",
+        "real",
+        "time"
+      ],
+      "path": "skills/embedded-systems/SKILL.md"
     },
     {
       "id": "embedding-strategies",
@@ -9430,6 +9722,30 @@
       "path": "skills/finishing-a-development-branch/SKILL.md"
     },
     {
+      "id": "fintech-engineer",
+      "name": "fintech-engineer",
+      "description": "Use when building payment systems, financial integrations, or compliance-heavy financial applications that require secure transaction processing, regulatory adherence, and high transaction accuracy.",
+      "category": "security",
+      "tags": [
+        "fintech"
+      ],
+      "triggers": [
+        "fintech",
+        "engineer",
+        "building",
+        "payment",
+        "financial",
+        "integrations",
+        "compliance",
+        "heavy",
+        "applications",
+        "require",
+        "secure",
+        "transaction"
+      ],
+      "path": "skills/fintech-engineer/SKILL.md"
+    },
+    {
       "id": "firebase",
       "name": "firebase",
       "description": "Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they'r...",
@@ -9536,7 +9852,7 @@
     {
       "id": "form-cro",
       "name": "form-cro",
-      "description": ">",
+      "description": "When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms.",
       "category": "general",
       "tags": [
         "form",
@@ -9544,7 +9860,17 @@
       ],
       "triggers": [
         "form",
-        "cro"
+        "cro",
+        "user",
+        "wants",
+        "optimize",
+        "any",
+        "signup",
+        "registration",
+        "including",
+        "lead",
+        "capture",
+        "forms"
       ],
       "path": "skills/form-cro/SKILL.md"
     },
@@ -9710,7 +10036,7 @@
     {
       "id": "free-tool-strategy",
       "name": "free-tool-strategy",
-      "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as mar...",
+      "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness.",
       "category": "business",
       "tags": [
         "free"
@@ -9832,7 +10158,7 @@
     {
       "id": "frontend-developer",
       "name": "frontend-developer",
-      "description": "Build React components, implement responsive layouts, and handle",
+      "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
       "category": "development",
       "tags": [
         "frontend"
@@ -9840,11 +10166,16 @@
       "triggers": [
         "frontend",
         "developer",
+        "building",
+        "complete",
+        "applications",
         "react",
-        "components",
-        "responsive",
-        "layouts",
-        "handle"
+        "vue",
+        "angular",
+        "frameworks",
+        "requiring",
+        "multi",
+        "framework"
       ],
       "path": "skills/frontend-developer/SKILL.md"
     },
@@ -9992,6 +10323,54 @@
         "working"
       ],
       "path": "skills/full-stack-orchestration-full-stack-feature/SKILL.md"
+    },
+    {
+      "id": "fullstack-developer",
+      "name": "fullstack-developer",
+      "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
+      "category": "data-ai",
+      "tags": [
+        "fullstack"
+      ],
+      "triggers": [
+        "fullstack",
+        "developer",
+        "agent",
+        "complete",
+        "features",
+        "spanning",
+        "database",
+        "api",
+        "frontend",
+        "layers",
+        "together",
+        "cohesive"
+      ],
+      "path": "skills/fullstack-developer/SKILL.md"
+    },
+    {
+      "id": "game-developer",
+      "name": "game-developer",
+      "description": "Use this agent when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games targeting specific platforms.",
+      "category": "general",
+      "tags": [
+        "game"
+      ],
+      "triggers": [
+        "game",
+        "developer",
+        "agent",
+        "implementing",
+        "optimizing",
+        "graphics",
+        "rendering",
+        "building",
+        "multiplayer",
+        "networking",
+        "developing",
+        "gameplay"
+      ],
+      "path": "skills/game-developer/SKILL.md"
     },
     {
       "id": "game-development",
@@ -10966,17 +11345,24 @@
     {
       "id": "graphql-architect",
       "name": "graphql-architect",
-      "description": "Master modern GraphQL with federation, performance optimization,",
-      "category": "general",
+      "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
+      "category": "architecture",
       "tags": [
         "graphql"
       ],
       "triggers": [
         "graphql",
         "architect",
+        "agent",
+        "designing",
+        "evolving",
+        "schemas",
+        "microservices",
+        "implementing",
         "federation",
-        "performance",
-        "optimization"
+        "architectures",
+        "optimizing",
+        "query"
       ],
       "path": "skills/graphql-architect/SKILL.md"
     },
@@ -11857,6 +12243,30 @@
       "path": "skills/ios-developer/SKILL.md"
     },
     {
+      "id": "iot-engineer",
+      "name": "iot-engineer",
+      "description": "Use when designing and deploying IoT solutions requiring expertise in device management, edge computing, cloud integration, and handling challenges like massive device scale, complex connectivity.",
+      "category": "infrastructure",
+      "tags": [
+        "iot"
+      ],
+      "triggers": [
+        "iot",
+        "engineer",
+        "designing",
+        "deploying",
+        "solutions",
+        "requiring",
+        "expertise",
+        "device",
+        "edge",
+        "computing",
+        "cloud",
+        "integration"
+      ],
+      "path": "skills/iot-engineer/SKILL.md"
+    },
+    {
       "id": "istio-traffic-management",
       "name": "istio-traffic-management",
       "description": "Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilie...",
@@ -12395,7 +12805,7 @@
     {
       "id": "launch-strategy",
       "name": "launch-strategy",
-      "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,'...",
+      "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,'.",
       "category": "development",
       "tags": [
         "launch"
@@ -12919,6 +13329,31 @@
       "path": "skills/loki-mode/SKILL.md"
     },
     {
+      "id": "m365-admin",
+      "name": "m365-admin",
+      "description": "Use when automating Microsoft 365 administrative tasks including Exchange Online mailbox provisioning, Teams collaboration management, SharePoint site configuration, license lifecycle management, and.",
+      "category": "workflow",
+      "tags": [
+        "m365",
+        "admin"
+      ],
+      "triggers": [
+        "m365",
+        "admin",
+        "automating",
+        "microsoft",
+        "365",
+        "administrative",
+        "tasks",
+        "including",
+        "exchange",
+        "online",
+        "mailbox",
+        "provisioning"
+      ],
+      "path": "skills/m365-admin/SKILL.md"
+    },
+    {
       "id": "m365-agents-dotnet",
       "name": "m365-agents-dotnet",
       "description": "|",
@@ -13106,6 +13541,31 @@
       "path": "skills/manifest/SKILL.md"
     },
     {
+      "id": "market-researcher",
+      "name": "market-researcher",
+      "description": "Use this agent when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy and market entry decisions.",
+      "category": "business",
+      "tags": [
+        "market",
+        "researcher"
+      ],
+      "triggers": [
+        "market",
+        "researcher",
+        "agent",
+        "analyze",
+        "markets",
+        "understand",
+        "consumer",
+        "behavior",
+        "assess",
+        "competitive",
+        "landscapes",
+        "size"
+      ],
+      "path": "skills/market-researcher/SKILL.md"
+    },
+    {
       "id": "market-sizing-analysis",
       "name": "market-sizing-analysis",
       "description": "This skill should be used when the user asks to \\\"calculate TAM\\\",",
@@ -13131,7 +13591,7 @@
     {
       "id": "marketing-ideas",
       "name": "marketing-ideas",
-      "description": "Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system.",
+      "description": "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing.",
       "category": "business",
       "tags": [
         "marketing",
@@ -13140,22 +13600,22 @@
       "triggers": [
         "marketing",
         "ideas",
-        "provide",
-        "proven",
-        "growth",
+        "user",
+        "inspiration",
         "saas",
         "software",
-        "products",
-        "prioritized",
-        "feasibility",
-        "scoring"
+        "product",
+        "asks",
+        "growth",
+        "how",
+        "market"
       ],
       "path": "skills/marketing-ideas/SKILL.md"
     },
     {
       "id": "marketing-psychology",
       "name": "marketing-psychology",
-      "description": "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.",
+      "description": "When the user wants to apply psychological principles, mental models, or behavioral science to marketing.",
       "category": "business",
       "tags": [
         "marketing",
@@ -13164,16 +13624,15 @@
       "triggers": [
         "marketing",
         "psychology",
+        "user",
+        "wants",
         "apply",
-        "behavioral",
-        "science",
+        "psychological",
+        "principles",
         "mental",
         "models",
-        "decisions",
-        "prioritized",
-        "psychological",
-        "leverage",
-        "feasibility"
+        "behavioral",
+        "science"
       ],
       "path": "skills/marketing-psychology/SKILL.md"
     },
@@ -13363,6 +13822,30 @@
         "profitable"
       ],
       "path": "skills/micro-saas-launcher/SKILL.md"
+    },
+    {
+      "id": "microservices-architect",
+      "name": "microservices-architect",
+      "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
+      "category": "architecture",
+      "tags": [
+        "microservices"
+      ],
+      "triggers": [
+        "microservices",
+        "architect",
+        "designing",
+        "distributed",
+        "architecture",
+        "decomposing",
+        "monolithic",
+        "applications",
+        "independent",
+        "establishing",
+        "communication",
+        "between"
+      ],
+      "path": "skills/microservices-architect/SKILL.md"
     },
     {
       "id": "microservices-patterns",
@@ -13567,6 +14050,31 @@
       "path": "skills/mlops-engineer/SKILL.md"
     },
     {
+      "id": "mobile-app-developer",
+      "name": "mobile-app-developer",
+      "description": "Use this agent when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform-specific user experience.",
+      "category": "development",
+      "tags": [
+        "mobile",
+        "app"
+      ],
+      "triggers": [
+        "mobile",
+        "app",
+        "developer",
+        "agent",
+        "developing",
+        "ios",
+        "android",
+        "applications",
+        "native",
+        "cross",
+        "platform",
+        "performance"
+      ],
+      "path": "skills/mobile-app-developer/SKILL.md"
+    },
+    {
       "id": "mobile-design",
       "name": "mobile-design",
       "description": "Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches pr...",
@@ -13593,7 +14101,7 @@
     {
       "id": "mobile-developer",
       "name": "mobile-developer",
-      "description": "Develop React Native, Flutter, or native mobile apps with modern",
+      "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture.",
       "category": "development",
       "tags": [
         "mobile"
@@ -13601,11 +14109,16 @@
       "triggers": [
         "mobile",
         "developer",
-        "develop",
-        "react",
+        "agent",
+        "building",
+        "cross",
+        "platform",
+        "applications",
+        "requiring",
         "native",
-        "flutter",
-        "apps"
+        "performance",
+        "optimization",
+        "specific"
       ],
       "path": "skills/mobile-developer/SKILL.md"
     },
@@ -14569,7 +15082,7 @@
     {
       "id": "onboarding-cro",
       "name": "onboarding-cro",
-      "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions \"onboarding flow,\" \"activation rate,\" \"u...",
+      "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value.",
       "category": "general",
       "tags": [
         "onboarding",
@@ -14742,15 +15255,25 @@
     {
       "id": "page-cro",
       "name": "page-cro",
-      "description": ">",
-      "category": "general",
+      "description": "When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts.",
+      "category": "business",
       "tags": [
         "page",
         "cro"
       ],
       "triggers": [
         "page",
-        "cro"
+        "cro",
+        "user",
+        "wants",
+        "optimize",
+        "improve",
+        "increase",
+        "conversions",
+        "any",
+        "marketing",
+        "including",
+        "homepage"
       ],
       "path": "skills/page-cro/SKILL.md"
     },
@@ -14781,7 +15304,7 @@
     {
       "id": "paid-ads",
       "name": "paid-ads",
-      "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' '...",
+      "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms.",
       "category": "general",
       "tags": [
         "paid",
@@ -14831,8 +15354,8 @@
     {
       "id": "payment-integration",
       "name": "payment-integration",
-      "description": "Integrate Stripe, PayPal, and payment processors. Handles checkout",
-      "category": "general",
+      "description": "Use this agent when implementing payment systems, integrating payment gateways, or handling financial transactions that require PCI compliance, fraud prevention, and secure transaction processing.",
+      "category": "security",
       "tags": [
         "payment",
         "integration"
@@ -14840,11 +15363,16 @@
       "triggers": [
         "payment",
         "integration",
-        "integrate",
-        "stripe",
-        "paypal",
-        "processors",
-        "checkout"
+        "agent",
+        "implementing",
+        "integrating",
+        "gateways",
+        "handling",
+        "financial",
+        "transactions",
+        "require",
+        "pci",
+        "compliance"
       ],
       "path": "skills/payment-integration/SKILL.md"
     },
@@ -14876,7 +15404,7 @@
     {
       "id": "paywall-upgrade-cro",
       "name": "paywall-upgrade-cro",
-      "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,...",
+      "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates.",
       "category": "general",
       "tags": [
         "paywall",
@@ -15287,8 +15815,8 @@
     {
       "id": "popup-cro",
       "name": "popup-cro",
-      "description": "Create and optimize popups, modals, overlays, slide-ins, and banners to increase conversions without harming user experience or brand trust.",
-      "category": "security",
+      "description": "When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes.",
+      "category": "general",
       "tags": [
         "popup",
         "cro"
@@ -15296,6 +15824,8 @@
       "triggers": [
         "popup",
         "cro",
+        "user",
+        "wants",
         "optimize",
         "popups",
         "modals",
@@ -15303,9 +15833,7 @@
         "slide",
         "ins",
         "banners",
-        "increase",
-        "conversions",
-        "without"
+        "conversion"
       ],
       "path": "skills/popup-cro/SKILL.md"
     },
@@ -15521,21 +16049,24 @@
     {
       "id": "pricing-strategy",
       "name": "pricing-strategy",
-      "description": "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives.",
-      "category": "business",
+      "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price.",
+      "category": "general",
       "tags": [
         "pricing"
       ],
       "triggers": [
         "pricing",
+        "user",
+        "wants",
+        "decisions",
         "packaging",
         "monetization",
-        "value",
-        "customer",
-        "willingness",
-        "pay",
-        "growth",
-        "objectives"
+        "mentions",
+        "tiers",
+        "freemium",
+        "free",
+        "trial",
+        "price"
       ],
       "path": "skills/pricing-strategy/SKILL.md"
     },
@@ -15615,6 +16146,30 @@
       "path": "skills/product-manager-toolkit/SKILL.md"
     },
     {
+      "id": "product-marketing-context",
+      "name": "product-marketing-context",
+      "description": "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' or wants to.",
+      "category": "business",
+      "tags": [
+        "product",
+        "marketing"
+      ],
+      "triggers": [
+        "product",
+        "marketing",
+        "context",
+        "user",
+        "wants",
+        "update",
+        "document",
+        "mentions",
+        "set",
+        "up",
+        "positioning"
+      ],
+      "path": "skills/product-marketing-context/SKILL.md"
+    },
+    {
       "id": "production-code-audit",
       "name": "production-code-audit",
       "description": "Autonomously deep-scan entire codebase line-by-line, understand architecture and patterns, then systematically transform it to production-grade, corporate-level professional quality with optimizations",
@@ -15643,15 +16198,22 @@
     {
       "id": "programmatic-seo",
       "name": "programmatic-seo",
-      "description": ">",
-      "category": "business",
+      "description": "When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions",
+      "category": "data-ai",
       "tags": [
         "programmatic",
         "seo"
       ],
       "triggers": [
         "programmatic",
-        "seo"
+        "seo",
+        "user",
+        "wants",
+        "driven",
+        "pages",
+        "scale",
+        "data",
+        "mentions"
       ],
       "path": "skills/programmatic-seo/SKILL.md"
     },
@@ -16067,8 +16629,8 @@
     {
       "id": "quant-analyst",
       "name": "quant-analyst",
-      "description": "Build financial models, backtest trading strategies, and analyze",
-      "category": "general",
+      "description": "Use this agent when you need to develop quantitative trading strategies, build financial models with rigorous mathematical foundations, or conduct advanced risk analytics for derivatives and.",
+      "category": "security",
       "tags": [
         "quant",
         "analyst"
@@ -16076,11 +16638,16 @@
       "triggers": [
         "quant",
         "analyst",
+        "agent",
+        "develop",
+        "quantitative",
+        "trading",
         "financial",
         "models",
-        "backtest",
-        "trading",
-        "analyze"
+        "rigorous",
+        "mathematical",
+        "foundations",
+        "conduct"
       ],
       "path": "skills/quant-analyst/SKILL.md"
     },
@@ -16526,7 +17093,7 @@
     {
       "id": "referral-program",
       "name": "referral-program",
-      "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of...",
+      "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.",
       "category": "general",
       "tags": [
         "referral",
@@ -16541,9 +17108,7 @@
         "analyze",
         "affiliate",
         "word",
-        "mouth",
-        "mentions",
-        "ambassador"
+        "mouth"
       ],
       "path": "skills/referral-program/SKILL.md"
     },
@@ -16619,6 +17184,31 @@
       "path": "skills/requesting-code-review/SKILL.md"
     },
     {
+      "id": "research-analyst",
+      "name": "research-analyst",
+      "description": "Use this agent when you need comprehensive research across multiple sources with synthesis of findings into actionable insights, trend identification, and detailed reporting.",
+      "category": "general",
+      "tags": [
+        "research",
+        "analyst"
+      ],
+      "triggers": [
+        "research",
+        "analyst",
+        "agent",
+        "multiple",
+        "sources",
+        "synthesis",
+        "findings",
+        "actionable",
+        "insights",
+        "trend",
+        "identification",
+        "detailed"
+      ],
+      "path": "skills/research-analyst/SKILL.md"
+    },
+    {
       "id": "research-engineer",
       "name": "research-engineer",
       "description": "An uncompromising Academic Research Engineer. Operates with absolute scientific rigor, objective criticism, and zero flair. Focuses on theoretical correctness, formal verification, and optimal impl...",
@@ -16660,9 +17250,32 @@
       "path": "skills/reverse-engineer/SKILL.md"
     },
     {
+      "id": "revops",
+      "name": "revops",
+      "description": "When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes.",
+      "category": "business",
+      "tags": [
+        "revops"
+      ],
+      "triggers": [
+        "revops",
+        "user",
+        "wants",
+        "revenue",
+        "operations",
+        "lead",
+        "lifecycle",
+        "marketing",
+        "sales",
+        "handoff",
+        "processes"
+      ],
+      "path": "skills/revops/SKILL.md"
+    },
+    {
       "id": "risk-manager",
       "name": "risk-manager",
-      "description": "Monitor portfolio risk, R-multiples, and position limits. Creates",
+      "description": "Use this agent when you need to identify, quantify, and mitigate enterprise-level risks across financial, operational, regulatory, and strategic domains.",
       "category": "security",
       "tags": [
         "risk",
@@ -16671,12 +17284,16 @@
       "triggers": [
         "risk",
         "manager",
-        "monitor",
-        "portfolio",
-        "multiples",
-        "position",
-        "limits",
-        "creates"
+        "agent",
+        "identify",
+        "quantify",
+        "mitigate",
+        "enterprise",
+        "level",
+        "risks",
+        "financial",
+        "operational",
+        "regulatory"
       ],
       "path": "skills/risk-manager/SKILL.md"
     },
@@ -16814,6 +17431,31 @@
       "path": "skills/sales-automator/SKILL.md"
     },
     {
+      "id": "sales-enablement",
+      "name": "sales-enablement",
+      "description": "When the user wants to create sales collateral, pitch decks, one-pagers, objection handling docs, or demo scripts.",
+      "category": "business",
+      "tags": [
+        "sales",
+        "enablement"
+      ],
+      "triggers": [
+        "sales",
+        "enablement",
+        "user",
+        "wants",
+        "collateral",
+        "pitch",
+        "decks",
+        "one",
+        "pagers",
+        "objection",
+        "handling",
+        "docs"
+      ],
+      "path": "skills/sales-enablement/SKILL.md"
+    },
+    {
       "id": "salesforce-automation",
       "name": "salesforce-automation",
       "description": "Automate Salesforce tasks via Rube MCP (Composio): leads, contacts, accounts, opportunities, SOQL queries. Always search tools first for current schemas.",
@@ -16931,15 +17573,24 @@
     {
       "id": "schema-markup",
       "name": "schema-markup",
-      "description": ">",
-      "category": "general",
+      "description": "When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions",
+      "category": "data-ai",
       "tags": [
         "schema",
         "markup"
       ],
       "triggers": [
         "schema",
-        "markup"
+        "markup",
+        "user",
+        "wants",
+        "add",
+        "fix",
+        "optimize",
+        "structured",
+        "data",
+        "site",
+        "mentions"
       ],
       "path": "skills/schema-markup/SKILL.md"
     },
@@ -17020,24 +17671,22 @@
     {
       "id": "search-specialist",
       "name": "search-specialist",
-      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "description": "Use when you need to find specific information across multiple sources using advanced search strategies, query optimization, and targeted information retrieval.",
       "category": "general",
       "tags": [
         "search"
       ],
       "triggers": [
         "search",
-        "web",
-        "researcher",
-        "techniques",
-        "synthesis",
-        "masters",
-        "operators",
-        "result",
-        "filtering",
-        "multi",
-        "source",
-        "verification"
+        "find",
+        "specific",
+        "information",
+        "multiple",
+        "sources",
+        "query",
+        "optimization",
+        "targeted",
+        "retrieval"
       ],
       "path": "skills/search-specialist/SKILL.md"
     },
@@ -17514,7 +18163,7 @@
     {
       "id": "seo-audit",
       "name": "seo-audit",
-      "description": ">",
+      "description": "When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions",
       "category": "business",
       "tags": [
         "seo",
@@ -17522,7 +18171,14 @@
       ],
       "triggers": [
         "seo",
-        "audit"
+        "audit",
+        "user",
+        "wants",
+        "review",
+        "diagnose",
+        "issues",
+        "site",
+        "mentions"
       ],
       "path": "skills/seo-audit/SKILL.md"
     },
@@ -17741,6 +18397,29 @@
         "serp"
       ],
       "path": "skills/seo-snippet-hunter/SKILL.md"
+    },
+    {
+      "id": "seo-specialist",
+      "name": "seo-specialist",
+      "description": "Use this agent when you need comprehensive SEO optimization encompassing technical audits, keyword strategy, content optimization, and search rankings improvement.",
+      "category": "business",
+      "tags": [
+        "seo"
+      ],
+      "triggers": [
+        "seo",
+        "agent",
+        "optimization",
+        "encompassing",
+        "technical",
+        "audits",
+        "keyword",
+        "content",
+        "search",
+        "rankings",
+        "improvement"
+      ],
+      "path": "skills/seo-specialist/SKILL.md"
     },
     {
       "id": "seo-structure-architect",
@@ -18010,7 +18689,7 @@
     {
       "id": "signup-flow-cro",
       "name": "signup-flow-cro",
-      "description": "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup...",
+      "description": "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions",
       "category": "general",
       "tags": [
         "signup",
@@ -18057,6 +18736,31 @@
         "optimizing"
       ],
       "path": "skills/similarity-search-patterns/SKILL.md"
+    },
+    {
+      "id": "site-architecture",
+      "name": "site-architecture",
+      "description": "When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal linking.",
+      "category": "architecture",
+      "tags": [
+        "site",
+        "architecture"
+      ],
+      "triggers": [
+        "site",
+        "architecture",
+        "user",
+        "wants",
+        "plan",
+        "map",
+        "restructure",
+        "website",
+        "page",
+        "hierarchy",
+        "navigation",
+        "url"
+      ],
+      "path": "skills/site-architecture/SKILL.md"
     },
     {
       "id": "skill-creator",
@@ -18309,7 +19013,7 @@
     {
       "id": "social-content",
       "name": "social-content",
-      "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn...",
+      "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms.",
       "category": "general",
       "tags": [
         "social",
@@ -19755,6 +20459,31 @@
       "path": "skills/trello-automation/SKILL.md"
     },
     {
+      "id": "trend-analyst",
+      "name": "trend-analyst",
+      "description": "Use when analyzing emerging patterns, predicting industry shifts, or developing future scenarios to inform strategic planning and competitive positioning.",
+      "category": "architecture",
+      "tags": [
+        "trend",
+        "analyst"
+      ],
+      "triggers": [
+        "trend",
+        "analyst",
+        "analyzing",
+        "emerging",
+        "predicting",
+        "industry",
+        "shifts",
+        "developing",
+        "future",
+        "scenarios",
+        "inform",
+        "strategic"
+      ],
+      "path": "skills/trend-analyst/SKILL.md"
+    },
+    {
       "id": "trigger-dev",
       "name": "trigger-dev",
       "description": "Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design. Use when: trigger.dev, trigger dev, background ta...",
@@ -19929,6 +20658,31 @@
         "type"
       ],
       "path": "skills/typescript-pro/SKILL.md"
+    },
+    {
+      "id": "ui-designer",
+      "name": "ui-designer",
+      "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and.",
+      "category": "architecture",
+      "tags": [
+        "ui",
+        "designer"
+      ],
+      "triggers": [
+        "ui",
+        "designer",
+        "agent",
+        "designing",
+        "visual",
+        "interfaces",
+        "creating",
+        "building",
+        "component",
+        "libraries",
+        "refining",
+        "user"
+      ],
+      "path": "skills/ui-designer/SKILL.md"
     },
     {
       "id": "ui-skills",
@@ -20776,6 +21530,30 @@
         "orders"
       ],
       "path": "skills/webflow-automation/SKILL.md"
+    },
+    {
+      "id": "websocket-engineer",
+      "name": "websocket-engineer",
+      "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
+      "category": "general",
+      "tags": [
+        "websocket"
+      ],
+      "triggers": [
+        "websocket",
+        "engineer",
+        "agent",
+        "implementing",
+        "real",
+        "time",
+        "bidirectional",
+        "communication",
+        "features",
+        "websockets",
+        "socket",
+        "io"
+      ],
+      "path": "skills/websocket-engineer/SKILL.md"
     },
     {
       "id": "whatsapp-automation",
