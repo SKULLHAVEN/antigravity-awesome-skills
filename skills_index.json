@@ -30,10 +30,10 @@
     "id": "ab-test-setup",
     "path": "skills/ab-test-setup",
     "category": "uncategorized",
-    "name": "ab-test-setup",
-    "description": "Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.",
+    "name": "Ab Test Setup",
+    "description": "You are an expert in experimentation and A/B testing. Your goal is to help design tests that produce statistically valid, actionable results.",
     "risk": "unknown",
-    "source": "community"
+    "source": "unknown"
   },
   {
     "id": "accessibility-compliance-accessibility-audit",
@@ -61,6 +61,15 @@
     "description": "Automate ActiveCampaign tasks via Rube MCP (Composio): manage contacts, tags, list subscriptions, automation enrollment, and tasks. Always search tools first for current schemas.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "ad-creative",
+    "path": "skills/ad-creative",
+    "category": "uncategorized",
+    "name": "ad-creative",
+    "description": "When the user wants to generate, iterate, or scale ad creative \u2014 headlines, descriptions, primary text, or full ad variations \u2014 for any paid advertising platform.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "address-github-comments",
@@ -198,6 +207,15 @@
     "source": "vibeship-spawner-skills (Apache 2.0)"
   },
   {
+    "id": "ai-seo",
+    "path": "skills/ai-seo",
+    "category": "uncategorized",
+    "name": "ai-seo",
+    "description": "When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "ai-wrapper-product",
     "path": "skills/ai-wrapper-product",
     "category": "uncategorized",
@@ -256,7 +274,7 @@
     "path": "skills/analytics-tracking",
     "category": "uncategorized",
     "name": "Analytics Tracking",
-    "description": "You are an expert in **analytics implementation and measurement design**. Your goal is to ensure tracking produces **trustworthy signals that directly support decisions** across marketing, product, and growth.",
+    "description": "You are an expert in analytics implementation and measurement. Your goal is to help set up tracking that provides actionable insights for marketing and product decisions.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -2223,6 +2241,15 @@
     "source": "community"
   },
   {
+    "id": "churn-prevention",
+    "path": "skills/churn-prevention",
+    "category": "uncategorized",
+    "name": "churn-prevention",
+    "description": "When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or implement retention strategies.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "cicd-automation-workflow-automate",
     "path": "skills/cicd-automation-workflow-automate",
     "category": "uncategorized",
@@ -2502,6 +2529,15 @@
     "source": "community"
   },
   {
+    "id": "cold-email",
+    "path": "skills/cold-email",
+    "category": "uncategorized",
+    "name": "cold-email",
+    "description": "Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails, prospecting emails, cold email campaigns, sales development emails, or SDR.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "commit",
     "path": "skills/commit",
     "category": "uncategorized",
@@ -2524,9 +2560,9 @@
     "path": "skills/competitor-alternatives",
     "category": "uncategorized",
     "name": "competitor-alternatives",
-    "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'compa...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "comprehensive-review-full-review",
@@ -2664,6 +2700,15 @@
     "source": "community"
   },
   {
+    "id": "content-strategy",
+    "path": "skills/content-strategy",
+    "category": "uncategorized",
+    "name": "content-strategy",
+    "description": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "context-driven-development",
     "path": "skills/context-driven-development",
     "category": "uncategorized",
@@ -2785,18 +2830,18 @@
     "path": "skills/copy-editing",
     "category": "uncategorized",
     "name": "copy-editing",
-    "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this ...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "copywriting",
     "path": "skills/copywriting",
     "category": "uncategorized",
-    "name": "Copywriting",
-    "description": "Produce **clear, credible, and action-oriented marketing copy** that aligns with user intent and business goals.",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "copywriting",
+    "description": "When the user wants to write, rewrite, or improve marketing copy for any page \u2014 including homepage, landing pages, pricing pages, feature pages, about pages, or product pages.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "core-components",
@@ -3469,9 +3514,9 @@
     "path": "skills/email-sequence",
     "category": "uncategorized",
     "name": "email-sequence",
-    "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campa...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "email-systems",
@@ -3837,10 +3882,10 @@
     "id": "form-cro",
     "path": "skills/form-cro",
     "category": "uncategorized",
-    "name": "Form Cro",
-    "description": "You are an expert in **form optimization and friction reduction**. Your goal is to **maximize form completion while preserving data usefulness**.",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "form-cro",
+    "description": "When the user wants to optimize any form that is NOT signup/registration \u2014 including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "fp-ts-errors",
@@ -3901,9 +3946,9 @@
     "path": "skills/free-tool-strategy",
     "category": "uncategorized",
     "name": "free-tool-strategy",
-    "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes \u2014 lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as mar...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes \u2014 lead generation, SEO value, or brand awareness.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "freshdesk-automation",
@@ -4909,9 +4954,9 @@
     "path": "skills/launch-strategy",
     "category": "uncategorized",
     "name": "launch-strategy",
-    "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,'...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,'.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "legacy-modernizer",
@@ -5152,18 +5197,18 @@
     "path": "skills/marketing-ideas",
     "category": "uncategorized",
     "name": "marketing-ideas",
-    "description": "Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "marketing-psychology",
     "path": "skills/marketing-psychology",
     "category": "uncategorized",
     "name": "marketing-psychology",
-    "description": "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to apply psychological principles, mental models, or behavioral science to marketing.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "mcp-builder",
@@ -5710,9 +5755,9 @@
     "path": "skills/onboarding-cro",
     "category": "uncategorized",
     "name": "onboarding-cro",
-    "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions \"onboarding flow,\" \"activation rate,\" \"u...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "one-drive-automation",
@@ -5772,10 +5817,10 @@
     "id": "page-cro",
     "path": "skills/page-cro",
     "category": "uncategorized",
-    "name": "Page Cro",
-    "description": "You are an expert in **page-level conversion optimization**. Your goal is to **diagnose why a page is or is not converting**, assess readiness for optimization, and provide **prioritized, evidence-based recommendations**. You do **not** guarantee con",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "page-cro",
+    "description": "When the user wants to optimize, improve, or increase conversions on any marketing page \u2014 including homepage, landing pages, pricing pages, feature pages, or blog posts.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "pagerduty-automation",
@@ -5791,9 +5836,9 @@
     "path": "skills/paid-ads",
     "category": "uncategorized",
     "name": "paid-ads",
-    "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' '...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "parallel-agents",
@@ -5827,9 +5872,9 @@
     "path": "skills/paywall-upgrade-cro",
     "category": "uncategorized",
     "name": "paywall-upgrade-cro",
-    "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "pc-games",
@@ -5989,9 +6034,9 @@
     "path": "skills/popup-cro",
     "category": "uncategorized",
     "name": "popup-cro",
-    "description": "Create and optimize popups, modals, overlays, slide-ins, and banners to increase conversions without harming user experience or brand trust.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "posix-shell-pro",
@@ -6079,9 +6124,9 @@
     "path": "skills/pricing-strategy",
     "category": "uncategorized",
     "name": "pricing-strategy",
-    "description": "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "prisma-expert",
@@ -6111,6 +6156,15 @@
     "source": "community"
   },
   {
+    "id": "product-marketing-context",
+    "path": "skills/product-marketing-context",
+    "category": "uncategorized",
+    "name": "product-marketing-context",
+    "description": "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' or wants to.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "production-code-audit",
     "path": "skills/production-code-audit",
     "category": "uncategorized",
@@ -6124,7 +6178,7 @@
     "path": "skills/programmatic-seo",
     "category": "uncategorized",
     "name": "Programmatic Seo",
-    "description": "---",
+    "description": "You are an expert in programmatic SEO\u2014building SEO-optimized pages at scale using templates and data. Your goal is to create pages that rank, provide value, and avoid thin content penalties.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -6457,9 +6511,9 @@
     "path": "skills/referral-program",
     "category": "uncategorized",
     "name": "referral-program",
-    "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "remotion-best-practices",
@@ -6505,6 +6559,15 @@
     "description": "- IDAPython (IDA Pro scripting) - Ghidra scripting (Java/Python via Jython) - r2pipe (radare2 Python API) - pwntools (CTF/exploitation toolkit) - capstone (disassembly framework) - keystone (assembly framework) - unicorn (CPU emulator framework) - an",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "revops",
+    "path": "skills/revops",
+    "category": "uncategorized",
+    "name": "revops",
+    "description": "When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales handoff processes.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "risk-manager",
@@ -6570,6 +6633,15 @@
     "source": "unknown"
   },
   {
+    "id": "sales-enablement",
+    "path": "skills/sales-enablement",
+    "category": "uncategorized",
+    "name": "sales-enablement",
+    "description": "When the user wants to create sales collateral, pitch decks, one-pagers, objection handling docs, or demo scripts.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
+  },
+  {
     "id": "salesforce-automation",
     "path": "skills/salesforce-automation",
     "category": "uncategorized",
@@ -6619,7 +6691,7 @@
     "path": "skills/schema-markup",
     "category": "uncategorized",
     "name": "Schema Markup",
-    "description": "---",
+    "description": "You are an expert in structured data and schema markup. Your goal is to implement schema.org markup that helps search engines understand content and enables rich results in search.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -6799,7 +6871,7 @@
     "path": "skills/seo-audit",
     "category": "uncategorized",
     "name": "Seo Audit",
-    "description": "You are an **SEO diagnostic specialist**. Your role is to **identify, explain, and prioritize SEO issues** that affect organic visibility\u2014**not to implement fixes unless explicitly requested**.",
+    "description": "You are an expert in search engine optimization. Your goal is to identify SEO issues and provide actionable recommendations to improve organic search performance.",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -6996,10 +7068,10 @@
     "id": "signup-flow-cro",
     "path": "skills/signup-flow-cro",
     "category": "uncategorized",
-    "name": "signup-flow-cro",
-    "description": "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup...",
+    "name": "Signup Flow Cro",
+    "description": "You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.",
     "risk": "unknown",
-    "source": "community"
+    "source": "unknown"
   },
   {
     "id": "similarity-search-patterns",
@@ -7009,6 +7081,15 @@
     "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "site-architecture",
+    "path": "skills/site-architecture",
+    "category": "uncategorized",
+    "name": "site-architecture",
+    "description": "When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal linking.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "skill-creator",
@@ -7105,9 +7186,9 @@
     "path": "skills/social-content",
     "category": "uncategorized",
     "name": "social-content",
-    "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn...",
-    "risk": "unknown",
-    "source": "community"
+    "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms.",
+    "risk": "safe",
+    "source": "coreyhaines31/marketingskills"
   },
   {
     "id": "software-architecture",

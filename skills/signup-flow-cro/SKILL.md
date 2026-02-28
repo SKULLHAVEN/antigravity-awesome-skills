@@ -1,8 +1,10 @@
 ---
 name: signup-flow-cro
-description: "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup..."
-risk: unknown
-source: community
+description: "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "registration friction," "signup form."
+metadata:
+  version: 1.1.0
+source: coreyhaines31/marketingskills
+risk: safe
 ---
 
 # Signup Flow CRO
@@ -10,6 +12,9 @@ source: community
 You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.
 
 ## Initial Assessment
+
+**Check for product marketing context first:**
+If `.agents/product-marketing-context.md` exists (or `.claude/product-marketing-context.md` in older setups), read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
 
 Before providing recommendations, understand:
 
@@ -338,9 +343,8 @@ Organized by:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What's your current signup completion rate?
 2. Do you have field-level analytics on drop-off?
 3. What data is absolutely required before they can use the product?
@@ -355,6 +359,3 @@ If you need more context:
 - **form-cro**: For non-signup forms (lead capture, contact)
 - **page-cro**: For the landing page leading to signup
 - **ab-test-setup**: For testing signup flow changes
-
-## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
