@@ -5652,6 +5652,15 @@
     "source": "https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration"
   },
   {
+    "id": "nano-banana-pro-prompts-recommend-skill",
+    "path": "skills/nano-banana-pro-prompts-recommend-skill",
+    "category": "uncategorized",
+    "name": "nano-banana-pro-prompts-recommend-skill",
+    "description": "Recommends AI image generation prompts from a 10,000+ curated library (Nano Banana Pro / Gemini). Supports semantic search, content remix, and multi-language responses.",
+    "risk": "safe",
+    "source": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill (MIT)"
+  },
+  {
     "id": "nanobanana-ppt-skills",
     "path": "skills/nanobanana-ppt-skills",
     "category": "uncategorized",
