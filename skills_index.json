@@ -612,6 +612,15 @@
     "source": "community"
   },
   {
+    "id": "awesome-nano-banana-pro-prompts",
+    "path": "skills/awesome-nano-banana-pro-prompts",
+    "category": "uncategorized",
+    "name": "awesome-nano-banana-pro-prompts",
+    "description": "Curated community library of 10,000+ Nano Banana Pro (Gemini multimodal) prompts across diverse styles and use cases. Multi-language support for 16 languages.",
+    "risk": "safe",
+    "source": "YouMind-OpenLab/awesome-nano-banana-pro-prompts (CC BY 4.0)"
+  },
+  {
     "id": "aws-compliance-checker",
     "path": "skills/security/aws-compliance-checker",
     "category": "security",
@@ -7531,6 +7540,15 @@
     "description": "Automate Supabase database queries, table management, project administration, storage, edge functions, and SQL execution via Rube MCP (Composio). Always search tools first for current schemas.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "superdesign",
+    "path": "skills/superdesign",
+    "category": "uncategorized",
+    "name": "superdesign",
+    "description": "Frontend UI/UX design agent that generates and iterates design drafts on an infinite canvas. Requires @superdesign/cli installed and authenticated.",
+    "risk": "safe",
+    "source": "superdesigndev/superdesign-skill (see repo)"
   },
   {
     "id": "superpowers-lab",
