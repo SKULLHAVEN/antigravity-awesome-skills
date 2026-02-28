@@ -351,15 +351,6 @@
     "source": "self"
   },
   {
-    "id": "api-documenter",
-    "path": "skills/api-documenter",
-    "category": "uncategorized",
-    "name": "Api Documenter",
-    "description": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "api-design-principles",
     "path": "skills/api-design-principles",
     "category": "uncategorized",
@@ -367,6 +358,15 @@
     "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "api-designer",
+    "path": "skills/api-designer",
+    "category": "uncategorized",
+    "name": "api-designer",
+    "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "api-documentation",
@@ -385,6 +385,15 @@
     "description": "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "api-documenter",
+    "path": "skills/api-documenter",
+    "category": "uncategorized",
+    "name": "api-documenter",
+    "description": "Use this agent when creating or improving API documentation, writing OpenAPI specifications, building interactive documentation portals, or generating code examples for APIs.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "api-fuzzing-bug-bounty",
@@ -1764,6 +1773,15 @@
     "source": "community"
   },
   {
+    "id": "backend-developer",
+    "path": "skills/backend-developer",
+    "category": "uncategorized",
+    "name": "backend-developer",
+    "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "backend-development-feature-development",
     "path": "skills/backend-development-feature-development",
     "category": "uncategorized",
@@ -1920,10 +1938,10 @@
     "id": "blockchain-developer",
     "path": "skills/blockchain-developer",
     "category": "uncategorized",
-    "name": "Blockchain Developer",
-    "description": "- Working on blockchain developer tasks or workflows - Needing guidance, best practices, or checklists for blockchain developer",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "blockchain-developer",
+    "description": "Use this agent when building smart contracts, DApps, and blockchain protocols that require expertise in Solidity, gas optimization, security auditing, and Web3 integration.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "blockrun",
@@ -2556,6 +2574,15 @@
     "source": "unknown"
   },
   {
+    "id": "competitive-analyst",
+    "path": "skills/competitive-analyst",
+    "category": "uncategorized",
+    "name": "competitive-analyst",
+    "description": "Use when you need to analyze direct and indirect competitors, benchmark against market leaders, or develop strategies to strengthen competitive positioning and market advantage.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "competitor-alternatives",
     "path": "skills/competitor-alternatives",
     "category": "uncategorized",
@@ -2986,6 +3013,15 @@
     "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "data-researcher",
+    "path": "skills/data-researcher",
+    "category": "uncategorized",
+    "name": "data-researcher",
+    "description": "Use this agent when you need to discover, collect, and validate data from multiple sources to fuel analysis and decision-making.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "data-storytelling",
@@ -3501,6 +3537,15 @@
     "source": "community"
   },
   {
+    "id": "electron-pro",
+    "path": "skills/electron-pro",
+    "category": "uncategorized",
+    "name": "electron-pro",
+    "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "elixir-pro",
     "path": "skills/elixir-pro",
     "category": "uncategorized",
@@ -3526,6 +3571,15 @@
     "description": "Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders.  This skill cov...",
     "risk": "unknown",
     "source": "vibeship-spawner-skills (Apache 2.0)"
+  },
+  {
+    "id": "embedded-systems",
+    "path": "skills/embedded-systems",
+    "category": "uncategorized",
+    "name": "embedded-systems",
+    "description": "Use when developing firmware for resource-constrained microcontrollers, implementing RTOS-based applications, or optimizing real-time systems where hardware constraints, latency guarantees, and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "embedding-strategies",
@@ -3834,6 +3888,15 @@
     "source": "community"
   },
   {
+    "id": "fintech-engineer",
+    "path": "skills/fintech-engineer",
+    "category": "uncategorized",
+    "name": "fintech-engineer",
+    "description": "Use when building payment systems, financial integrations, or compliance-heavy financial applications that require secure transaction processing, regulatory adherence, and high transaction accuracy.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "firebase",
     "path": "skills/firebase",
     "category": "uncategorized",
@@ -3969,15 +4032,6 @@
     "source": "community"
   },
   {
-    "id": "frontend-developer",
-    "path": "skills/frontend-developer",
-    "category": "uncategorized",
-    "name": "Frontend Developer",
-    "description": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "frontend-security-coder",
     "path": "skills/frontend-security-coder",
     "category": "uncategorized",
@@ -4003,6 +4057,15 @@
     "description": "Opinionated frontend development standards for modern React + TypeScript applications. Covers Suspense-first data fetching, lazy loading, feature-based architecture, MUI v7 styling, TanStack Router...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "frontend-developer",
+    "path": "skills/frontend-developer",
+    "category": "uncategorized",
+    "name": "frontend-developer",
+    "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "frontend-mobile-development-component-scaffold",
@@ -4050,6 +4113,15 @@
     "source": "community"
   },
   {
+    "id": "fullstack-developer",
+    "path": "skills/fullstack-developer",
+    "category": "uncategorized",
+    "name": "fullstack-developer",
+    "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "game-art",
     "path": "skills/game-development/game-art",
     "category": "game-development",
@@ -4075,6 +4147,15 @@
     "description": "Game design principles. GDD structure, balancing, player psychology, progression.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "game-developer",
+    "path": "skills/game-developer",
+    "category": "uncategorized",
+    "name": "game-developer",
+    "description": "Use this agent when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games targeting specific platforms.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "game-development",
@@ -4350,10 +4431,10 @@
     "id": "graphql-architect",
     "path": "skills/graphql-architect",
     "category": "uncategorized",
-    "name": "Graphql Architect",
-    "description": "- Working on graphql architect tasks or workflows - Needing guidance, best practices, or checklists for graphql architect",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "graphql-architect",
+    "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "haskell-pro",
@@ -4743,6 +4824,15 @@
     "source": "unknown"
   },
   {
+    "id": "iot-engineer",
+    "path": "skills/iot-engineer",
+    "category": "uncategorized",
+    "name": "iot-engineer",
+    "description": "Use when designing and deploying IoT solutions requiring expertise in device management, edge computing, cloud integration, and handling challenges like massive device scale, complex connectivity.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "istio-traffic-management",
     "path": "skills/istio-traffic-management",
     "category": "uncategorized",
@@ -5130,6 +5220,15 @@
     "source": "unknown"
   },
   {
+    "id": "m365-admin",
+    "path": "skills/m365-admin",
+    "category": "uncategorized",
+    "name": "m365-admin",
+    "description": "Use when automating Microsoft 365 administrative tasks including Exchange Online mailbox provisioning, Teams collaboration management, SharePoint site configuration, license lifecycle management, and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "machine-learning-ops-ml-pipeline",
     "path": "skills/machine-learning-ops-ml-pipeline",
     "category": "uncategorized",
@@ -5191,6 +5290,15 @@
     "description": "Comprehensive market sizing methodologies for calculating Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) for startup opportunities.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "market-researcher",
+    "path": "skills/market-researcher",
+    "category": "uncategorized",
+    "name": "market-researcher",
+    "description": "Use this agent when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy and market entry decisions.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "marketing-ideas",
@@ -5283,6 +5391,15 @@
     "source": "vibeship-spawner-skills (Apache 2.0)"
   },
   {
+    "id": "microservices-architect",
+    "path": "skills/microservices-architect",
+    "category": "uncategorized",
+    "name": "microservices-architect",
+    "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "microservices-patterns",
     "path": "skills/microservices-patterns",
     "category": "uncategorized",
@@ -5364,15 +5481,6 @@
     "source": "unknown"
   },
   {
-    "id": "mobile-developer",
-    "path": "skills/mobile-developer",
-    "category": "uncategorized",
-    "name": "Mobile Developer",
-    "description": "- Working on mobile developer tasks or workflows - Needing guidance, best practices, or checklists for mobile developer",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "mobile-security-coder",
     "path": "skills/mobile-security-coder",
     "category": "uncategorized",
@@ -5382,6 +5490,15 @@
     "source": "unknown"
   },
   {
+    "id": "mobile-app-developer",
+    "path": "skills/mobile-app-developer",
+    "category": "uncategorized",
+    "name": "mobile-app-developer",
+    "description": "Use this agent when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform-specific user experience.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "mobile-design",
     "path": "skills/mobile-design",
     "category": "uncategorized",
@@ -5389,6 +5506,15 @@
     "description": "Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches pr...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "mobile-developer",
+    "path": "skills/mobile-developer",
+    "category": "uncategorized",
+    "name": "mobile-developer",
+    "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "mobile-games",
@@ -5853,10 +5979,10 @@
     "id": "payment-integration",
     "path": "skills/payment-integration",
     "category": "uncategorized",
-    "name": "Payment Integration",
-    "description": "- Working on payment integration tasks or workflows - Needing guidance, best practices, or checklists for payment integration",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "payment-integration",
+    "description": "Use this agent when implementing payment systems, integrating payment gateways, or handling financial transactions that require PCI compliance, fraud prevention, and secure transaction processing.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "paypal-integration",
@@ -6339,10 +6465,10 @@
     "id": "quant-analyst",
     "path": "skills/quant-analyst",
     "category": "uncategorized",
-    "name": "Quant Analyst",
-    "description": "- Working on quant analyst tasks or workflows - Needing guidance, best practices, or checklists for quant analyst",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "quant-analyst",
+    "description": "Use this agent when you need to develop quantitative trading strategies, build financial models with rigorous mathematical foundations, or conduct advanced risk analytics for derivatives and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "radix-ui-design-system",
@@ -6543,6 +6669,15 @@
     "source": "community"
   },
   {
+    "id": "research-analyst",
+    "path": "skills/research-analyst",
+    "category": "uncategorized",
+    "name": "research-analyst",
+    "description": "Use this agent when you need comprehensive research across multiple sources with synthesis of findings into actionable insights, trend identification, and detailed reporting.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "research-engineer",
     "path": "skills/research-engineer",
     "category": "uncategorized",
@@ -6573,10 +6708,10 @@
     "id": "risk-manager",
     "path": "skills/risk-manager",
     "category": "uncategorized",
-    "name": "Risk Manager",
-    "description": "- Working on risk manager tasks or workflows - Needing guidance, best practices, or checklists for risk manager",
-    "risk": "unknown",
-    "source": "unknown"
+    "name": "risk-manager",
+    "description": "Use this agent when you need to identify, quantify, and mitigate enterprise-level risks across financial, operational, regulatory, and strategic domains.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "risk-metrics-calculation",
@@ -6727,9 +6862,9 @@
     "path": "skills/search-specialist",
     "category": "uncategorized",
     "name": "search-specialist",
-    "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
-    "risk": "unknown",
-    "source": "community"
+    "description": "Use when you need to find specific information across multiple sources using advanced search strategies, query optimization, and targeted information retrieval.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "secrets-management",
@@ -6973,6 +7108,15 @@
     "description": "- Working on seo structure architect tasks or workflows - Needing guidance, best practices, or checklists for seo structure architect",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "seo-specialist",
+    "path": "skills/seo-specialist",
+    "category": "uncategorized",
+    "name": "seo-specialist",
+    "description": "Use this agent when you need comprehensive SEO optimization encompassing technical audits, keyword strategy, content optimization, and search rankings improvement.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "server-management",
@@ -7758,6 +7902,15 @@
     "source": "community"
   },
   {
+    "id": "trend-analyst",
+    "path": "skills/trend-analyst",
+    "category": "uncategorized",
+    "name": "trend-analyst",
+    "description": "Use when analyzing emerging patterns, predicting industry shifts, or developing future scenarios to inform strategic planning and competitive positioning.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
+  },
+  {
     "id": "trigger-dev",
     "path": "skills/trigger-dev",
     "category": "uncategorized",
@@ -7846,6 +7999,15 @@
     "description": "- Working on ui visual validator tasks or workflows - Needing guidance, best practices, or checklists for ui visual validator",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "ui-designer",
+    "path": "skills/ui-designer",
+    "category": "uncategorized",
+    "name": "ui-designer",
+    "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "ui-skills",
@@ -8161,6 +8323,15 @@
     "description": "Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first for current schemas.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "websocket-engineer",
+    "path": "skills/websocket-engineer",
+    "category": "uncategorized",
+    "name": "websocket-engineer",
+    "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
+    "risk": "safe",
+    "source": "VoltAgent/awesome-claude-code-subagents"
   },
   {
     "id": "whatsapp-automation",

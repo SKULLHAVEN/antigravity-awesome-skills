@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 939,
+  "total": 958,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -932,6 +932,31 @@
       "path": "skills/api-design-principles/SKILL.md"
     },
     {
+      "id": "api-designer",
+      "name": "api-designer",
+      "description": "Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience.",
+      "category": "development",
+      "tags": [
+        "api",
+        "designer"
+      ],
+      "triggers": [
+        "api",
+        "designer",
+        "agent",
+        "designing",
+        "new",
+        "apis",
+        "creating",
+        "specifications",
+        "refactoring",
+        "existing",
+        "architecture",
+        "scalability"
+      ],
+      "path": "skills/api-designer/SKILL.md"
+    },
+    {
       "id": "api-documentation",
       "name": "api-documentation",
       "description": "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.",
@@ -981,8 +1006,8 @@
     {
       "id": "api-documenter",
       "name": "api-documenter",
-      "description": "Master API documentation with OpenAPI 3.1, AI-powered tools, and",
-      "category": "data-ai",
+      "description": "Use this agent when creating or improving API documentation, writing OpenAPI specifications, building interactive documentation portals, or generating code examples for APIs.",
+      "category": "development",
       "tags": [
         "api",
         "documenter"
@@ -990,10 +1015,16 @@
       "triggers": [
         "api",
         "documenter",
+        "agent",
+        "creating",
+        "improving",
         "documentation",
+        "writing",
         "openapi",
-        "ai",
-        "powered"
+        "specifications",
+        "building",
+        "interactive",
+        "portals"
       ],
       "path": "skills/api-documenter/SKILL.md"
     },
@@ -4277,6 +4308,30 @@
       "path": "skills/backend-dev-guidelines/SKILL.md"
     },
     {
+      "id": "backend-developer",
+      "name": "backend-developer",
+      "description": "Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
+      "category": "development",
+      "tags": [
+        "backend"
+      ],
+      "triggers": [
+        "backend",
+        "developer",
+        "agent",
+        "building",
+        "server",
+        "side",
+        "apis",
+        "microservices",
+        "require",
+        "robust",
+        "architecture",
+        "scalability"
+      ],
+      "path": "skills/backend-developer/SKILL.md"
+    },
+    {
       "id": "backend-development-feature-development",
       "name": "backend-development-feature-development",
       "description": "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services.",
@@ -4681,18 +4736,24 @@
     {
       "id": "blockchain-developer",
       "name": "blockchain-developer",
-      "description": "Build production-ready Web3 applications, smart contracts, and",
-      "category": "general",
+      "description": "Use this agent when building smart contracts, DApps, and blockchain protocols that require expertise in Solidity, gas optimization, security auditing, and Web3 integration.",
+      "category": "security",
       "tags": [
         "blockchain"
       ],
       "triggers": [
         "blockchain",
         "developer",
-        "web3",
-        "applications",
+        "agent",
+        "building",
         "smart",
-        "contracts"
+        "contracts",
+        "dapps",
+        "protocols",
+        "require",
+        "expertise",
+        "solidity",
+        "gas"
       ],
       "path": "skills/blockchain-developer/SKILL.md"
     },
@@ -6330,6 +6391,31 @@
       "path": "skills/commit/SKILL.md"
     },
     {
+      "id": "competitive-analyst",
+      "name": "competitive-analyst",
+      "description": "Use when you need to analyze direct and indirect competitors, benchmark against market leaders, or develop strategies to strengthen competitive positioning and market advantage.",
+      "category": "business",
+      "tags": [
+        "competitive",
+        "analyst"
+      ],
+      "triggers": [
+        "competitive",
+        "analyst",
+        "analyze",
+        "direct",
+        "indirect",
+        "competitors",
+        "benchmark",
+        "against",
+        "market",
+        "leaders",
+        "develop",
+        "strengthen"
+      ],
+      "path": "skills/competitive-analyst/SKILL.md"
+    },
+    {
       "id": "competitive-landscape",
       "name": "competitive-landscape",
       "description": "This skill should be used when the user asks to \\\"analyze",
@@ -7389,6 +7475,31 @@
         "implementing"
       ],
       "path": "skills/data-quality-frameworks/SKILL.md"
+    },
+    {
+      "id": "data-researcher",
+      "name": "data-researcher",
+      "description": "Use this agent when you need to discover, collect, and validate data from multiple sources to fuel analysis and decision-making.",
+      "category": "data-ai",
+      "tags": [
+        "data",
+        "researcher"
+      ],
+      "triggers": [
+        "data",
+        "researcher",
+        "agent",
+        "discover",
+        "collect",
+        "validate",
+        "multiple",
+        "sources",
+        "fuel",
+        "analysis",
+        "decision",
+        "making"
+      ],
+      "path": "skills/data-researcher/SKILL.md"
     },
     {
       "id": "data-scientist",
@@ -8724,6 +8835,30 @@
       "path": "skills/e2e-testing-patterns/SKILL.md"
     },
     {
+      "id": "electron-pro",
+      "name": "electron-pro",
+      "description": "Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization.",
+      "category": "security",
+      "tags": [
+        "electron"
+      ],
+      "triggers": [
+        "electron",
+        "pro",
+        "agent",
+        "building",
+        "desktop",
+        "applications",
+        "require",
+        "native",
+        "os",
+        "integration",
+        "cross",
+        "platform"
+      ],
+      "path": "skills/electron-pro/SKILL.md"
+    },
+    {
       "id": "elixir-pro",
       "name": "elixir-pro",
       "description": "Write idiomatic Elixir code with OTP patterns, supervision trees,",
@@ -8790,6 +8925,30 @@
         "startups"
       ],
       "path": "skills/email-systems/SKILL.md"
+    },
+    {
+      "id": "embedded-systems",
+      "name": "embedded-systems",
+      "description": "Use when developing firmware for resource-constrained microcontrollers, implementing RTOS-based applications, or optimizing real-time systems where hardware constraints, latency guarantees, and.",
+      "category": "general",
+      "tags": [
+        "embedded"
+      ],
+      "triggers": [
+        "embedded",
+        "developing",
+        "firmware",
+        "resource",
+        "constrained",
+        "microcontrollers",
+        "implementing",
+        "rtos",
+        "applications",
+        "optimizing",
+        "real",
+        "time"
+      ],
+      "path": "skills/embedded-systems/SKILL.md"
     },
     {
       "id": "embedding-strategies",
@@ -9563,6 +9722,30 @@
       "path": "skills/finishing-a-development-branch/SKILL.md"
     },
     {
+      "id": "fintech-engineer",
+      "name": "fintech-engineer",
+      "description": "Use when building payment systems, financial integrations, or compliance-heavy financial applications that require secure transaction processing, regulatory adherence, and high transaction accuracy.",
+      "category": "security",
+      "tags": [
+        "fintech"
+      ],
+      "triggers": [
+        "fintech",
+        "engineer",
+        "building",
+        "payment",
+        "financial",
+        "integrations",
+        "compliance",
+        "heavy",
+        "applications",
+        "require",
+        "secure",
+        "transaction"
+      ],
+      "path": "skills/fintech-engineer/SKILL.md"
+    },
+    {
       "id": "firebase",
       "name": "firebase",
       "description": "Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they'r...",
@@ -9975,7 +10158,7 @@
     {
       "id": "frontend-developer",
       "name": "frontend-developer",
-      "description": "Build React components, implement responsive layouts, and handle",
+      "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
       "category": "development",
       "tags": [
         "frontend"
@@ -9983,11 +10166,16 @@
       "triggers": [
         "frontend",
         "developer",
+        "building",
+        "complete",
+        "applications",
         "react",
-        "components",
-        "responsive",
-        "layouts",
-        "handle"
+        "vue",
+        "angular",
+        "frameworks",
+        "requiring",
+        "multi",
+        "framework"
       ],
       "path": "skills/frontend-developer/SKILL.md"
     },
@@ -10135,6 +10323,54 @@
         "working"
       ],
       "path": "skills/full-stack-orchestration-full-stack-feature/SKILL.md"
+    },
+    {
+      "id": "fullstack-developer",
+      "name": "fullstack-developer",
+      "description": "Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
+      "category": "data-ai",
+      "tags": [
+        "fullstack"
+      ],
+      "triggers": [
+        "fullstack",
+        "developer",
+        "agent",
+        "complete",
+        "features",
+        "spanning",
+        "database",
+        "api",
+        "frontend",
+        "layers",
+        "together",
+        "cohesive"
+      ],
+      "path": "skills/fullstack-developer/SKILL.md"
+    },
+    {
+      "id": "game-developer",
+      "name": "game-developer",
+      "description": "Use this agent when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games targeting specific platforms.",
+      "category": "general",
+      "tags": [
+        "game"
+      ],
+      "triggers": [
+        "game",
+        "developer",
+        "agent",
+        "implementing",
+        "optimizing",
+        "graphics",
+        "rendering",
+        "building",
+        "multiplayer",
+        "networking",
+        "developing",
+        "gameplay"
+      ],
+      "path": "skills/game-developer/SKILL.md"
     },
     {
       "id": "game-development",
@@ -11109,17 +11345,24 @@
     {
       "id": "graphql-architect",
       "name": "graphql-architect",
-      "description": "Master modern GraphQL with federation, performance optimization,",
-      "category": "general",
+      "description": "Use this agent when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
+      "category": "architecture",
       "tags": [
         "graphql"
       ],
       "triggers": [
         "graphql",
         "architect",
+        "agent",
+        "designing",
+        "evolving",
+        "schemas",
+        "microservices",
+        "implementing",
         "federation",
-        "performance",
-        "optimization"
+        "architectures",
+        "optimizing",
+        "query"
       ],
       "path": "skills/graphql-architect/SKILL.md"
     },
@@ -11998,6 +12241,30 @@
         "18"
       ],
       "path": "skills/ios-developer/SKILL.md"
+    },
+    {
+      "id": "iot-engineer",
+      "name": "iot-engineer",
+      "description": "Use when designing and deploying IoT solutions requiring expertise in device management, edge computing, cloud integration, and handling challenges like massive device scale, complex connectivity.",
+      "category": "infrastructure",
+      "tags": [
+        "iot"
+      ],
+      "triggers": [
+        "iot",
+        "engineer",
+        "designing",
+        "deploying",
+        "solutions",
+        "requiring",
+        "expertise",
+        "device",
+        "edge",
+        "computing",
+        "cloud",
+        "integration"
+      ],
+      "path": "skills/iot-engineer/SKILL.md"
     },
     {
       "id": "istio-traffic-management",
@@ -13062,6 +13329,31 @@
       "path": "skills/loki-mode/SKILL.md"
     },
     {
+      "id": "m365-admin",
+      "name": "m365-admin",
+      "description": "Use when automating Microsoft 365 administrative tasks including Exchange Online mailbox provisioning, Teams collaboration management, SharePoint site configuration, license lifecycle management, and.",
+      "category": "workflow",
+      "tags": [
+        "m365",
+        "admin"
+      ],
+      "triggers": [
+        "m365",
+        "admin",
+        "automating",
+        "microsoft",
+        "365",
+        "administrative",
+        "tasks",
+        "including",
+        "exchange",
+        "online",
+        "mailbox",
+        "provisioning"
+      ],
+      "path": "skills/m365-admin/SKILL.md"
+    },
+    {
       "id": "m365-agents-dotnet",
       "name": "m365-agents-dotnet",
       "description": "|",
@@ -13247,6 +13539,31 @@
         "keys"
       ],
       "path": "skills/manifest/SKILL.md"
+    },
+    {
+      "id": "market-researcher",
+      "name": "market-researcher",
+      "description": "Use this agent when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy and market entry decisions.",
+      "category": "business",
+      "tags": [
+        "market",
+        "researcher"
+      ],
+      "triggers": [
+        "market",
+        "researcher",
+        "agent",
+        "analyze",
+        "markets",
+        "understand",
+        "consumer",
+        "behavior",
+        "assess",
+        "competitive",
+        "landscapes",
+        "size"
+      ],
+      "path": "skills/market-researcher/SKILL.md"
     },
     {
       "id": "market-sizing-analysis",
@@ -13507,6 +13824,30 @@
       "path": "skills/micro-saas-launcher/SKILL.md"
     },
     {
+      "id": "microservices-architect",
+      "name": "microservices-architect",
+      "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
+      "category": "architecture",
+      "tags": [
+        "microservices"
+      ],
+      "triggers": [
+        "microservices",
+        "architect",
+        "designing",
+        "distributed",
+        "architecture",
+        "decomposing",
+        "monolithic",
+        "applications",
+        "independent",
+        "establishing",
+        "communication",
+        "between"
+      ],
+      "path": "skills/microservices-architect/SKILL.md"
+    },
+    {
       "id": "microservices-patterns",
       "name": "microservices-patterns",
       "description": "Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing micros...",
@@ -13709,6 +14050,31 @@
       "path": "skills/mlops-engineer/SKILL.md"
     },
     {
+      "id": "mobile-app-developer",
+      "name": "mobile-app-developer",
+      "description": "Use this agent when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform-specific user experience.",
+      "category": "development",
+      "tags": [
+        "mobile",
+        "app"
+      ],
+      "triggers": [
+        "mobile",
+        "app",
+        "developer",
+        "agent",
+        "developing",
+        "ios",
+        "android",
+        "applications",
+        "native",
+        "cross",
+        "platform",
+        "performance"
+      ],
+      "path": "skills/mobile-app-developer/SKILL.md"
+    },
+    {
       "id": "mobile-design",
       "name": "mobile-design",
       "description": "Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches pr...",
@@ -13735,7 +14101,7 @@
     {
       "id": "mobile-developer",
       "name": "mobile-developer",
-      "description": "Develop React Native, Flutter, or native mobile apps with modern",
+      "description": "Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture.",
       "category": "development",
       "tags": [
         "mobile"
@@ -13743,11 +14109,16 @@
       "triggers": [
         "mobile",
         "developer",
-        "develop",
-        "react",
+        "agent",
+        "building",
+        "cross",
+        "platform",
+        "applications",
+        "requiring",
         "native",
-        "flutter",
-        "apps"
+        "performance",
+        "optimization",
+        "specific"
       ],
       "path": "skills/mobile-developer/SKILL.md"
     },
@@ -14983,8 +15354,8 @@
     {
       "id": "payment-integration",
       "name": "payment-integration",
-      "description": "Integrate Stripe, PayPal, and payment processors. Handles checkout",
-      "category": "general",
+      "description": "Use this agent when implementing payment systems, integrating payment gateways, or handling financial transactions that require PCI compliance, fraud prevention, and secure transaction processing.",
+      "category": "security",
       "tags": [
         "payment",
         "integration"
@@ -14992,11 +15363,16 @@
       "triggers": [
         "payment",
         "integration",
-        "integrate",
-        "stripe",
-        "paypal",
-        "processors",
-        "checkout"
+        "agent",
+        "implementing",
+        "integrating",
+        "gateways",
+        "handling",
+        "financial",
+        "transactions",
+        "require",
+        "pci",
+        "compliance"
       ],
       "path": "skills/payment-integration/SKILL.md"
     },
@@ -16253,8 +16629,8 @@
     {
       "id": "quant-analyst",
       "name": "quant-analyst",
-      "description": "Build financial models, backtest trading strategies, and analyze",
-      "category": "general",
+      "description": "Use this agent when you need to develop quantitative trading strategies, build financial models with rigorous mathematical foundations, or conduct advanced risk analytics for derivatives and.",
+      "category": "security",
       "tags": [
         "quant",
         "analyst"
@@ -16262,11 +16638,16 @@
       "triggers": [
         "quant",
         "analyst",
+        "agent",
+        "develop",
+        "quantitative",
+        "trading",
         "financial",
         "models",
-        "backtest",
-        "trading",
-        "analyze"
+        "rigorous",
+        "mathematical",
+        "foundations",
+        "conduct"
       ],
       "path": "skills/quant-analyst/SKILL.md"
     },
@@ -16803,6 +17184,31 @@
       "path": "skills/requesting-code-review/SKILL.md"
     },
     {
+      "id": "research-analyst",
+      "name": "research-analyst",
+      "description": "Use this agent when you need comprehensive research across multiple sources with synthesis of findings into actionable insights, trend identification, and detailed reporting.",
+      "category": "general",
+      "tags": [
+        "research",
+        "analyst"
+      ],
+      "triggers": [
+        "research",
+        "analyst",
+        "agent",
+        "multiple",
+        "sources",
+        "synthesis",
+        "findings",
+        "actionable",
+        "insights",
+        "trend",
+        "identification",
+        "detailed"
+      ],
+      "path": "skills/research-analyst/SKILL.md"
+    },
+    {
       "id": "research-engineer",
       "name": "research-engineer",
       "description": "An uncompromising Academic Research Engineer. Operates with absolute scientific rigor, objective criticism, and zero flair. Focuses on theoretical correctness, formal verification, and optimal impl...",
@@ -16869,7 +17275,7 @@
     {
       "id": "risk-manager",
       "name": "risk-manager",
-      "description": "Monitor portfolio risk, R-multiples, and position limits. Creates",
+      "description": "Use this agent when you need to identify, quantify, and mitigate enterprise-level risks across financial, operational, regulatory, and strategic domains.",
       "category": "security",
       "tags": [
         "risk",
@@ -16878,12 +17284,16 @@
       "triggers": [
         "risk",
         "manager",
-        "monitor",
-        "portfolio",
-        "multiples",
-        "position",
-        "limits",
-        "creates"
+        "agent",
+        "identify",
+        "quantify",
+        "mitigate",
+        "enterprise",
+        "level",
+        "risks",
+        "financial",
+        "operational",
+        "regulatory"
       ],
       "path": "skills/risk-manager/SKILL.md"
     },
@@ -17261,24 +17671,22 @@
     {
       "id": "search-specialist",
       "name": "search-specialist",
-      "description": "Expert web researcher using advanced search techniques and synthesis. Masters search operators, result filtering, and multi-source verification. Handles competitive analysis and fact-checking. Use PROACTIVELY for deep research, information gathering, or trend analysis.",
+      "description": "Use when you need to find specific information across multiple sources using advanced search strategies, query optimization, and targeted information retrieval.",
       "category": "general",
       "tags": [
         "search"
       ],
       "triggers": [
         "search",
-        "web",
-        "researcher",
-        "techniques",
-        "synthesis",
-        "masters",
-        "operators",
-        "result",
-        "filtering",
-        "multi",
-        "source",
-        "verification"
+        "find",
+        "specific",
+        "information",
+        "multiple",
+        "sources",
+        "query",
+        "optimization",
+        "targeted",
+        "retrieval"
       ],
       "path": "skills/search-specialist/SKILL.md"
     },
@@ -17989,6 +18397,29 @@
         "serp"
       ],
       "path": "skills/seo-snippet-hunter/SKILL.md"
+    },
+    {
+      "id": "seo-specialist",
+      "name": "seo-specialist",
+      "description": "Use this agent when you need comprehensive SEO optimization encompassing technical audits, keyword strategy, content optimization, and search rankings improvement.",
+      "category": "business",
+      "tags": [
+        "seo"
+      ],
+      "triggers": [
+        "seo",
+        "agent",
+        "optimization",
+        "encompassing",
+        "technical",
+        "audits",
+        "keyword",
+        "content",
+        "search",
+        "rankings",
+        "improvement"
+      ],
+      "path": "skills/seo-specialist/SKILL.md"
     },
     {
       "id": "seo-structure-architect",
@@ -20028,6 +20459,31 @@
       "path": "skills/trello-automation/SKILL.md"
     },
     {
+      "id": "trend-analyst",
+      "name": "trend-analyst",
+      "description": "Use when analyzing emerging patterns, predicting industry shifts, or developing future scenarios to inform strategic planning and competitive positioning.",
+      "category": "architecture",
+      "tags": [
+        "trend",
+        "analyst"
+      ],
+      "triggers": [
+        "trend",
+        "analyst",
+        "analyzing",
+        "emerging",
+        "predicting",
+        "industry",
+        "shifts",
+        "developing",
+        "future",
+        "scenarios",
+        "inform",
+        "strategic"
+      ],
+      "path": "skills/trend-analyst/SKILL.md"
+    },
+    {
       "id": "trigger-dev",
       "name": "trigger-dev",
       "description": "Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design. Use when: trigger.dev, trigger dev, background ta...",
@@ -20202,6 +20658,31 @@
         "type"
       ],
       "path": "skills/typescript-pro/SKILL.md"
+    },
+    {
+      "id": "ui-designer",
+      "name": "ui-designer",
+      "description": "Use this agent when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and.",
+      "category": "architecture",
+      "tags": [
+        "ui",
+        "designer"
+      ],
+      "triggers": [
+        "ui",
+        "designer",
+        "agent",
+        "designing",
+        "visual",
+        "interfaces",
+        "creating",
+        "building",
+        "component",
+        "libraries",
+        "refining",
+        "user"
+      ],
+      "path": "skills/ui-designer/SKILL.md"
     },
     {
       "id": "ui-skills",
@@ -21049,6 +21530,30 @@
         "orders"
       ],
       "path": "skills/webflow-automation/SKILL.md"
+    },
+    {
+      "id": "websocket-engineer",
+      "name": "websocket-engineer",
+      "description": "Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
+      "category": "general",
+      "tags": [
+        "websocket"
+      ],
+      "triggers": [
+        "websocket",
+        "engineer",
+        "agent",
+        "implementing",
+        "real",
+        "time",
+        "bidirectional",
+        "communication",
+        "features",
+        "websockets",
+        "socket",
+        "io"
+      ],
+      "path": "skills/websocket-engineer/SKILL.md"
     },
     {
       "id": "whatsapp-automation",
