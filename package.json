@@ -40,5 +40,8 @@
     "antigravity",
     "agentic-skills",
     "ai-coding"
-  ]
+  ],
+  "dependencies": {
+    "motion": "^12.38.0"
+  }
 }
