@@ -72,6 +72,1275 @@
     "source": "community"
   },
   {
+    "id": "agency-academic-anthropologist",
+    "path": "skills/agency-academic-anthropologist",
+    "category": "academic",
+    "name": "agency-academic-anthropologist",
+    "description": "Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method \u2014 builds culturally coherent societies that feel lived-in rather than invented",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-academic-geographer",
+    "path": "skills/agency-academic-geographer",
+    "category": "academic",
+    "name": "agency-academic-geographer",
+    "description": "Expert in physical and human geography, climate systems, cartography, and spatial analysis \u2014 builds geographically coherent worlds where terrain, climate, resources, and settlement patterns make sc...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-academic-historian",
+    "path": "skills/agency-academic-historian",
+    "category": "academic",
+    "name": "agency-academic-historian",
+    "description": "Expert in historical analysis, periodization, material culture, and historiography \u2014 validates historical coherence and enriches settings with authentic period detail grounded in primary and second...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-academic-narratologist",
+    "path": "skills/agency-academic-narratologist",
+    "category": "academic",
+    "name": "agency-academic-narratologist",
+    "description": "Expert in narrative theory, story structure, character arcs, and literary analysis \u2014 grounds advice in established frameworks from Propp to Campbell to modern narratology",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-academic-psychologist",
+    "path": "skills/agency-academic-psychologist",
+    "category": "academic",
+    "name": "agency-academic-psychologist",
+    "description": "Expert in human behavior, personality theory, motivation, and cognitive patterns \u2014 builds psychologically credible characters and interactions grounded in clinical and research frameworks",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-accounts-payable-agent",
+    "path": "skills/agency-accounts-payable-agent",
+    "category": "specialized",
+    "name": "agency-accounts-payable-agent",
+    "description": "Autonomous payment processing specialist that executes vendor payments, contractor invoices, and recurring bills across any payment rail \u2014 crypto, fiat, stablecoins. Integrates with AI agent workfl...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-agentic-identity-trust",
+    "path": "skills/agency-agentic-identity-trust",
+    "category": "specialized",
+    "name": "agency-agentic-identity-trust",
+    "description": "Designs identity, authentication, and trust verification systems for autonomous AI agents operating in multi-agent environments. Ensures agents can prove who they are, what they're authorized to do...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-agents-orchestrator",
+    "path": "skills/agency-agents-orchestrator",
+    "category": "specialized",
+    "name": "agency-agents-orchestrator",
+    "description": "Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-automation-governance-architect",
+    "path": "skills/agency-automation-governance-architect",
+    "category": "specialized",
+    "name": "agency-automation-governance-architect",
+    "description": "Governance-first architect for business automations (n8n-first) who audits value, risk, and maintainability before implementation.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-blockchain-security-auditor",
+    "path": "skills/agency-blockchain-security-auditor",
+    "category": "specialized",
+    "name": "agency-blockchain-security-auditor",
+    "description": "Expert smart contract security auditor specializing in vulnerability detection, formal verification, exploit analysis, and comprehensive audit report writing for DeFi protocols and blockchain appli...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-compliance-auditor",
+    "path": "skills/agency-compliance-auditor",
+    "category": "specialized",
+    "name": "agency-compliance-auditor",
+    "description": "Expert technical compliance auditor specializing in SOC 2, ISO 27001, HIPAA, and PCI-DSS audits \u2014 from readiness assessment through evidence collection to certification.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-corporate-training-designer",
+    "path": "skills/agency-corporate-training-designer",
+    "category": "specialized",
+    "name": "agency-corporate-training-designer",
+    "description": "Expert in enterprise training system design and curriculum development \u2014 proficient in training needs analysis, instructional design methodology, blended learning program design, internal trainer d...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-data-consolidation-agent",
+    "path": "skills/agency-data-consolidation-agent",
+    "category": "specialized",
+    "name": "agency-data-consolidation-agent",
+    "description": "AI agent that consolidates extracted sales data into live reporting dashboards with territory, rep, and pipeline summaries",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-brand-guardian",
+    "path": "skills/agency-design-brand-guardian",
+    "category": "design",
+    "name": "agency-design-brand-guardian",
+    "description": "Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-image-prompt-engineer",
+    "path": "skills/agency-design-image-prompt-engineer",
+    "category": "design",
+    "name": "agency-design-image-prompt-engineer",
+    "description": "Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces s...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-inclusive-visuals-specialist",
+    "path": "skills/agency-design-inclusive-visuals-specialist",
+    "category": "design",
+    "name": "agency-design-inclusive-visuals-specialist",
+    "description": "Representation expert who defeats systemic AI biases to generate culturally accurate, affirming, and non-stereotypical images and video.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-ui-designer",
+    "path": "skills/agency-design-ui-designer",
+    "category": "design",
+    "name": "agency-design-ui-designer",
+    "description": "Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and re...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-ux-architect",
+    "path": "skills/agency-design-ux-architect",
+    "category": "design",
+    "name": "agency-design-ux-architect",
+    "description": "Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-ux-researcher",
+    "path": "skills/agency-design-ux-researcher",
+    "category": "design",
+    "name": "agency-design-ux-researcher",
+    "description": "Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability an...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-visual-storyteller",
+    "path": "skills/agency-design-visual-storyteller",
+    "category": "design",
+    "name": "agency-design-visual-storyteller",
+    "description": "Expert visual communication specialist focused on creating compelling visual narratives, multimedia content, and brand storytelling through design. Specializes in transforming complex information i...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-design-whimsy-injector",
+    "path": "skills/agency-design-whimsy-injector",
+    "category": "design",
+    "name": "agency-design-whimsy-injector",
+    "description": "Expert creative specialist focused on adding personality, delight, and playful elements to brand experiences. Creates memorable, joyful interactions that differentiate brands through unexpected mom...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-ai-data-remediation-engineer",
+    "path": "skills/agency-engineering-ai-data-remediation-engineer",
+    "category": "engineering",
+    "name": "agency-engineering-ai-data-remediation-engineer",
+    "description": "Specialist in self-healing data pipelines \u2014 uses air-gapped local SLMs and semantic clustering to automatically detect, classify, and fix data anomalies at scale. Focuses exclusively on the remedia...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-ai-engineer",
+    "path": "skills/agency-engineering-ai-engineer",
+    "category": "engineering",
+    "name": "agency-engineering-ai-engineer",
+    "description": "Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-power...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-autonomous-optimization-architect",
+    "path": "skills/agency-engineering-autonomous-optimization-architect",
+    "category": "engineering",
+    "name": "agency-engineering-autonomous-optimization-architect",
+    "description": "Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-backend-architect",
+    "path": "skills/agency-engineering-backend-architect",
+    "category": "engineering",
+    "name": "agency-engineering-backend-architect",
+    "description": "Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and mic...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-code-reviewer",
+    "path": "skills/agency-engineering-code-reviewer",
+    "category": "engineering",
+    "name": "agency-engineering-code-reviewer",
+    "description": "Expert code reviewer who provides constructive, actionable feedback focused on correctness, maintainability, security, and performance \u2014 not style preferences.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-data-engineer",
+    "path": "skills/agency-engineering-data-engineer",
+    "category": "engineering",
+    "name": "agency-engineering-data-engineer",
+    "description": "Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud da...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-database-optimizer",
+    "path": "skills/agency-engineering-database-optimizer",
+    "category": "engineering",
+    "name": "agency-engineering-database-optimizer",
+    "description": "Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-devops-automator",
+    "path": "skills/agency-engineering-devops-automator",
+    "category": "engineering",
+    "name": "agency-engineering-devops-automator",
+    "description": "Expert DevOps engineer specializing in infrastructure automation, CI/CD pipeline development, and cloud operations",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-embedded-firmware-engineer",
+    "path": "skills/agency-engineering-embedded-firmware-engineer",
+    "category": "engineering",
+    "name": "agency-engineering-embedded-firmware-engineer",
+    "description": "Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-feishu-integration-developer",
+    "path": "skills/agency-engineering-feishu-integration-developer",
+    "category": "engineering",
+    "name": "agency-engineering-feishu-integration-developer",
+    "description": "Full-stack integration expert specializing in the Feishu (Lark) Open Platform \u2014 proficient in Feishu bots, mini programs, approval workflows, Bitable (multidimensional spreadsheets), interactive me...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-frontend-developer",
+    "path": "skills/agency-engineering-frontend-developer",
+    "category": "engineering",
+    "name": "agency-engineering-frontend-developer",
+    "description": "Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-git-workflow-master",
+    "path": "skills/agency-engineering-git-workflow-master",
+    "category": "engineering",
+    "name": "agency-engineering-git-workflow-master",
+    "description": "Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-incident-response-commander",
+    "path": "skills/agency-engineering-incident-response-commander",
+    "category": "engineering",
+    "name": "agency-engineering-incident-response-commander",
+    "description": "Expert incident commander specializing in production incident management, structured response coordination, post-mortem facilitation, SLO/SLI tracking, and on-call process design for reliable engin...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-mobile-app-builder",
+    "path": "skills/agency-engineering-mobile-app-builder",
+    "category": "engineering",
+    "name": "agency-engineering-mobile-app-builder",
+    "description": "Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-rapid-prototyper",
+    "path": "skills/agency-engineering-rapid-prototyper",
+    "category": "engineering",
+    "name": "agency-engineering-rapid-prototyper",
+    "description": "Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-security-engineer",
+    "path": "skills/agency-engineering-security-engineer",
+    "category": "engineering",
+    "name": "agency-engineering-security-engineer",
+    "description": "Expert application security engineer specializing in threat modeling, vulnerability assessment, secure code review, and security architecture design for modern web and cloud-native applications.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-senior-developer",
+    "path": "skills/agency-engineering-senior-developer",
+    "category": "engineering",
+    "name": "agency-engineering-senior-developer",
+    "description": "Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-software-architect",
+    "path": "skills/agency-engineering-software-architect",
+    "category": "engineering",
+    "name": "agency-engineering-software-architect",
+    "description": "Expert software architect specializing in system design, domain-driven design, architectural patterns, and technical decision-making for scalable, maintainable systems.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-solidity-smart-contract-engineer",
+    "path": "skills/agency-engineering-solidity-smart-contract-engineer",
+    "category": "engineering",
+    "name": "agency-engineering-solidity-smart-contract-engineer",
+    "description": "Expert Solidity developer specializing in EVM smart contract architecture, gas optimization, upgradeable proxy patterns, DeFi protocol development, and security-first contract design across Ethereu...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-sre",
+    "path": "skills/agency-engineering-sre",
+    "category": "engineering",
+    "name": "agency-engineering-sre",
+    "description": "Expert site reliability engineer specializing in SLOs, error budgets, observability, chaos engineering, and toil reduction for production systems at scale.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-technical-writer",
+    "path": "skills/agency-engineering-technical-writer",
+    "category": "engineering",
+    "name": "agency-engineering-technical-writer",
+    "description": "Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that de...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-threat-detection-engineer",
+    "path": "skills/agency-engineering-threat-detection-engineer",
+    "category": "engineering",
+    "name": "agency-engineering-threat-detection-engineer",
+    "description": "Expert detection engineer specializing in SIEM rule development, MITRE ATT&CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-engineering-wechat-mini-program-developer",
+    "path": "skills/agency-engineering-wechat-mini-program-developer",
+    "category": "engineering",
+    "name": "agency-engineering-wechat-mini-program-developer",
+    "description": "Expert WeChat Mini Program developer specializing in \u5c0f\u7a0b\u5e8f development with WXML/WXSS/WXS, WeChat API integration, payment systems, subscription messaging, and the full WeChat ecosystem.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-game-audio-engineer",
+    "path": "skills/agency-game-audio-engineer",
+    "category": "game-development",
+    "name": "agency-game-audio-engineer",
+    "description": "Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music systems, spatial audio, and audio performance budgeting across all game engines",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-game-designer",
+    "path": "skills/agency-game-designer",
+    "category": "game-development",
+    "name": "agency-game-designer",
+    "description": "Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-government-digital-presales-consultant",
+    "path": "skills/agency-government-digital-presales-consultant",
+    "category": "specialized",
+    "name": "agency-government-digital-presales-consultant",
+    "description": "Presales expert for China's government digital transformation market (ToG), proficient in policy interpretation, solution design, bid document preparation, POC validation, compliance requirements (...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-healthcare-marketing-compliance",
+    "path": "skills/agency-healthcare-marketing-compliance",
+    "category": "specialized",
+    "name": "agency-healthcare-marketing-compliance",
+    "description": "Expert in healthcare marketing compliance in China, proficient in the Advertising Law, Medical Advertisement Management Measures, Drug Administration Law, and related regulations \u2014 covering pharmac...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-identity-graph-operator",
+    "path": "skills/agency-identity-graph-operator",
+    "category": "specialized",
+    "name": "agency-identity-graph-operator",
+    "description": "Operates a shared identity graph that multiple AI agents resolve against. Ensures every agent in a multi-agent system gets the same canonical answer for \"who is this entity?\" - deterministically, e...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-level-designer",
+    "path": "skills/agency-level-designer",
+    "category": "game-development",
+    "name": "agency-level-designer",
+    "description": "Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-lsp-index-engineer",
+    "path": "skills/agency-lsp-index-engineer",
+    "category": "specialized",
+    "name": "agency-lsp-index-engineer",
+    "description": "Language Server Protocol specialist building unified code intelligence systems through LSP client orchestration and semantic indexing",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-macos-spatial-metal-engineer",
+    "path": "skills/agency-macos-spatial-metal-engineer",
+    "category": "spatial-computing",
+    "name": "agency-macos-spatial-metal-engineer",
+    "description": "Native Swift and Metal specialist building high-performance 3D rendering systems and spatial computing experiences for macOS and Vision Pro",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-ai-citation-strategist",
+    "path": "skills/agency-marketing-ai-citation-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-ai-citation-strategist",
+    "description": "Expert in AI recommendation engine optimization (AEO/GEO) \u2014 audits brand visibility across ChatGPT, Claude, Gemini, and Perplexity, identifies why competitors get cited instead, and delivers conten...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-app-store-optimizer",
+    "path": "skills/agency-marketing-app-store-optimizer",
+    "category": "marketing",
+    "name": "agency-marketing-app-store-optimizer",
+    "description": "Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-baidu-seo-specialist",
+    "path": "skills/agency-marketing-baidu-seo-specialist",
+    "category": "marketing",
+    "name": "agency-marketing-baidu-seo-specialist",
+    "description": "Expert Baidu search optimization specialist focused on Chinese search engine ranking, Baidu ecosystem integration, ICP compliance, Chinese keyword research, and mobile-first indexing for the China ...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-bilibili-content-strategist",
+    "path": "skills/agency-marketing-bilibili-content-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-bilibili-content-strategist",
+    "description": "Expert Bilibili marketing specialist focused on UP\u4e3b growth, danmaku culture mastery, B\u7ad9 algorithm optimization, community building, and branded content strategy for China's leading video community ...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-book-co-author",
+    "path": "skills/agency-marketing-book-co-author",
+    "category": "marketing",
+    "name": "agency-marketing-book-co-author",
+    "description": "Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-carousel-growth-engine",
+    "path": "skills/agency-marketing-carousel-growth-engine",
+    "category": "marketing",
+    "name": "agency-marketing-carousel-growth-engine",
+    "description": "Autonomous TikTok and Instagram carousel generation specialist. Analyzes any website URL with Playwright, generates viral 6-slide carousels via Gemini image generation, publishes directly to feed v...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-china-ecommerce-operator",
+    "path": "skills/agency-marketing-china-ecommerce-operator",
+    "category": "marketing",
+    "name": "agency-marketing-china-ecommerce-operator",
+    "description": "Expert China e-commerce operations specialist covering Taobao, Tmall, Pinduoduo, and JD ecosystems with deep expertise in product listing optimization, live commerce, store operations, 618/Double 1...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-content-creator",
+    "path": "skills/agency-marketing-content-creator",
+    "category": "marketing",
+    "name": "agency-marketing-content-creator",
+    "description": "Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across al...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-cross-border-ecommerce",
+    "path": "skills/agency-marketing-cross-border-ecommerce",
+    "category": "marketing",
+    "name": "agency-marketing-cross-border-ecommerce",
+    "description": "Full-funnel cross-border e-commerce strategist covering Amazon, Shopee, Lazada, AliExpress, Temu, and TikTok Shop operations, international logistics and overseas warehousing, compliance and taxati...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-douyin-strategist",
+    "path": "skills/agency-marketing-douyin-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-douyin-strategist",
+    "description": "Short-video marketing expert specializing in the Douyin platform, with deep expertise in recommendation algorithm mechanics, viral video planning, livestream commerce workflows, and full-funnel bra...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-growth-hacker",
+    "path": "skills/agency-marketing-growth-hacker",
+    "category": "marketing",
+    "name": "agency-marketing-growth-hacker",
+    "description": "Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for expon...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-instagram-curator",
+    "path": "skills/agency-marketing-instagram-curator",
+    "category": "marketing",
+    "name": "agency-marketing-instagram-curator",
+    "description": "Expert Instagram marketing specialist focused on visual storytelling, community building, and multi-format content optimization. Masters aesthetic development and drives meaningful engagement.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-kuaishou-strategist",
+    "path": "skills/agency-marketing-kuaishou-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-kuaishou-strategist",
+    "description": "Expert Kuaishou marketing strategist specializing in short-video content for China's lower-tier city markets, live commerce operations, community trust building, and grassroots audience growth on \u5feb\u624b.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-linkedin-content-creator",
+    "path": "skills/agency-marketing-linkedin-content-creator",
+    "category": "marketing",
+    "name": "agency-marketing-linkedin-content-creator",
+    "description": "Expert LinkedIn content strategist focused on thought leadership, personal brand building, and high-engagement professional content. Masters LinkedIn's algorithm and culture to drive inbound opport...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-livestream-commerce-coach",
+    "path": "skills/agency-marketing-livestream-commerce-coach",
+    "category": "marketing",
+    "name": "agency-marketing-livestream-commerce-coach",
+    "description": "Veteran livestream e-commerce coach specializing in host training and live room operations across Douyin, Kuaishou, Taobao Live, and Channels, covering script design, product sequencing, paid-vs-or...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-podcast-strategist",
+    "path": "skills/agency-marketing-podcast-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-podcast-strategist",
+    "description": "Content strategy and operations expert for the Chinese podcast market, with deep expertise in Xiaoyuzhou, Ximalaya, and other major audio platforms, covering show positioning, audio production, aud...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-private-domain-operator",
+    "path": "skills/agency-marketing-private-domain-operator",
+    "category": "marketing",
+    "name": "agency-marketing-private-domain-operator",
+    "description": "Expert in building enterprise WeChat (WeCom) private domain ecosystems, with deep expertise in SCRM systems, segmented community operations, Mini Program commerce integration, user lifecycle manage...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-reddit-community-builder",
+    "path": "skills/agency-marketing-reddit-community-builder",
+    "category": "marketing",
+    "name": "agency-marketing-reddit-community-builder",
+    "description": "Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-seo-specialist",
+    "path": "skills/agency-marketing-seo-specialist",
+    "category": "marketing",
+    "name": "agency-marketing-seo-specialist",
+    "description": "Expert search engine optimization strategist specializing in technical SEO, content optimization, link authority building, and organic search growth. Drives sustainable traffic through data-driven ...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-short-video-editing-coach",
+    "path": "skills/agency-marketing-short-video-editing-coach",
+    "category": "marketing",
+    "name": "agency-marketing-short-video-editing-coach",
+    "description": "Hands-on short-video editing coach covering the full post-production pipeline, with mastery of CapCut Pro, Premiere Pro, DaVinci Resolve, and Final Cut Pro across composition and camera language, c...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-social-media-strategist",
+    "path": "skills/agency-marketing-social-media-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-social-media-strategist",
+    "description": "Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-tiktok-strategist",
+    "path": "skills/agency-marketing-tiktok-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-tiktok-strategist",
+    "description": "Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok's unique culture and features for brand growth.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-twitter-engager",
+    "path": "skills/agency-marketing-twitter-engager",
+    "category": "marketing",
+    "name": "agency-marketing-twitter-engager",
+    "description": "Expert Twitter marketing specialist focused on real-time engagement, thought leadership building, and community-driven growth. Builds brand authority through authentic conversation participation an...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-wechat-official-account",
+    "path": "skills/agency-marketing-wechat-official-account",
+    "category": "marketing",
+    "name": "agency-marketing-wechat-official-account",
+    "description": "Expert WeChat Official Account (OA) strategist specializing in content marketing, subscriber engagement, and conversion optimization. Masters multi-format content and builds loyal communities throu...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-weibo-strategist",
+    "path": "skills/agency-marketing-weibo-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-weibo-strategist",
+    "description": "Full-spectrum operations expert for Sina Weibo, with deep expertise in trending topic mechanics, Super Topic community management, public sentiment monitoring, fan economy strategies, and Weibo adv...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-xiaohongshu-specialist",
+    "path": "skills/agency-marketing-xiaohongshu-specialist",
+    "category": "marketing",
+    "name": "agency-marketing-xiaohongshu-specialist",
+    "description": "Expert Xiaohongshu marketing specialist focused on lifestyle content, trend-driven strategies, and authentic community engagement. Masters micro-content creation and drives viral growth through aes...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-marketing-zhihu-strategist",
+    "path": "skills/agency-marketing-zhihu-strategist",
+    "category": "marketing",
+    "name": "agency-marketing-zhihu-strategist",
+    "description": "Expert Zhihu marketing specialist focused on thought leadership, community credibility, and knowledge-driven engagement. Masters question-answering strategy and builds brand authority through authe...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-narrative-designer",
+    "path": "skills/agency-narrative-designer",
+    "category": "game-development",
+    "name": "agency-narrative-designer",
+    "description": "Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-paid-media-auditor",
+    "path": "skills/agency-paid-media-auditor",
+    "category": "paid-media",
+    "name": "agency-paid-media-auditor",
+    "description": "Comprehensive paid media auditor who systematically evaluates Google Ads, Microsoft Ads, and Meta accounts across 200+ checkpoints spanning account structure, tracking, bidding, creative, audiences...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-paid-media-creative-strategist",
+    "path": "skills/agency-paid-media-creative-strategist",
+    "category": "paid-media",
+    "name": "agency-paid-media-creative-strategist",
+    "description": "Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges t...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-paid-media-paid-social-strategist",
+    "path": "skills/agency-paid-media-paid-social-strategist",
+    "category": "paid-media",
+    "name": "agency-paid-media-paid-social-strategist",
+    "description": "Cross-platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full-funnel social ad programs from prospecting through r...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-paid-media-ppc-strategist",
+    "path": "skills/agency-paid-media-ppc-strategist",
+    "category": "paid-media",
+    "name": "agency-paid-media-ppc-strategist",
+    "description": "Senior paid media strategist specializing in large-scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, b...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-paid-media-programmatic-buyer",
+    "path": "skills/agency-paid-media-programmatic-buyer",
+    "category": "paid-media",
+    "name": "agency-paid-media-programmatic-buyer",
+    "description": "Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and AB...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-paid-media-search-query-analyst",
+    "path": "skills/agency-paid-media-search-query-analyst",
+    "category": "paid-media",
+    "name": "agency-paid-media-search-query-analyst",
+    "description": "Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-inten...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-paid-media-tracking-specialist",
+    "path": "skills/agency-paid-media-tracking-specialist",
+    "category": "paid-media",
+    "name": "agency-paid-media-tracking-specialist",
+    "description": "Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. En...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-product-behavioral-nudge-engine",
+    "path": "skills/agency-product-behavioral-nudge-engine",
+    "category": "product",
+    "name": "agency-product-behavioral-nudge-engine",
+    "description": "Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-product-feedback-synthesizer",
+    "path": "skills/agency-product-feedback-synthesizer",
+    "category": "product",
+    "name": "agency-product-feedback-synthesizer",
+    "description": "Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strat...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-product-manager",
+    "path": "skills/agency-product-manager",
+    "category": "product",
+    "name": "agency-product-manager",
+    "description": "Holistic product leader who owns the full product lifecycle \u2014 from discovery and strategy through roadmap, stakeholder alignment, go-to-market, and outcome measurement. Bridges business goals, user...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-product-sprint-prioritizer",
+    "path": "skills/agency-product-sprint-prioritizer",
+    "category": "product",
+    "name": "agency-product-sprint-prioritizer",
+    "description": "Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven pr...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-product-trend-researcher",
+    "path": "skills/agency-product-trend-researcher",
+    "category": "product",
+    "name": "agency-product-trend-researcher",
+    "description": "Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strateg...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-project-management-experiment-tracker",
+    "path": "skills/agency-project-management-experiment-tracker",
+    "category": "project-management",
+    "name": "agency-project-management-experiment-tracker",
+    "description": "Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through ...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-project-management-jira-workflow-steward",
+    "path": "skills/agency-project-management-jira-workflow-steward",
+    "category": "project-management",
+    "name": "agency-project-management-jira-workflow-steward",
+    "description": "Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-project-management-project-shepherd",
+    "path": "skills/agency-project-management-project-shepherd",
+    "category": "project-management",
+    "name": "agency-project-management-project-shepherd",
+    "description": "Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while man...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-project-management-studio-operations",
+    "path": "skills/agency-project-management-studio-operations",
+    "category": "project-management",
+    "name": "agency-project-management-studio-operations",
+    "description": "Expert operations manager specializing in day-to-day studio efficiency, process optimization, and resource coordination. Focused on ensuring smooth operations, maintaining productivity standards, a...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-project-management-studio-producer",
+    "path": "skills/agency-project-management-studio-producer",
+    "category": "project-management",
+    "name": "agency-project-management-studio-producer",
+    "description": "Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision wit...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-project-manager-senior",
+    "path": "skills/agency-project-manager-senior",
+    "category": "project-management",
+    "name": "agency-project-manager-senior",
+    "description": "Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-recruitment-specialist",
+    "path": "skills/agency-recruitment-specialist",
+    "category": "specialized",
+    "name": "agency-recruitment-specialist",
+    "description": "Expert recruitment operations and talent acquisition specialist \u2014 skilled in China's major hiring platforms, talent assessment frameworks, and labor law compliance. Helps companies efficiently attr...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-report-distribution-agent",
+    "path": "skills/agency-report-distribution-agent",
+    "category": "specialized",
+    "name": "agency-report-distribution-agent",
+    "description": "AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-account-strategist",
+    "path": "skills/agency-sales-account-strategist",
+    "category": "sales",
+    "name": "agency-sales-account-strategist",
+    "description": "Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relations...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-coach",
+    "path": "skills/agency-sales-coach",
+    "category": "sales",
+    "name": "agency-sales-coach",
+    "description": "Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better through structu...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-data-extraction-agent",
+    "path": "skills/agency-sales-data-extraction-agent",
+    "category": "sales",
+    "name": "agency-sales-data-extraction-agent",
+    "description": "AI agent specialized in monitoring Excel files and extracting key sales metrics (MTD, YTD, Year End) for internal live reporting",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-deal-strategist",
+    "path": "skills/agency-sales-deal-strategist",
+    "category": "sales",
+    "name": "agency-sales-deal-strategist",
+    "description": "Senior deal strategist specializing in MEDDPICC qualification, competitive positioning, and win planning for complex B2B sales cycles. Scores opportunities, exposes pipeline risk, and builds deal s...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-discovery-coach",
+    "path": "skills/agency-sales-discovery-coach",
+    "category": "sales",
+    "name": "agency-sales-discovery-coach",
+    "description": "Coaches sales teams on elite discovery methodology \u2014 question design, current-state mapping, gap quantification, and call structure that surfaces real buying motivation.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-engineer",
+    "path": "skills/agency-sales-engineer",
+    "category": "sales",
+    "name": "agency-sales-engineer",
+    "description": "Senior pre-sales engineer specializing in technical discovery, demo engineering, POC scoping, competitive battlecards, and bridging product capabilities to business outcomes. Wins the technical dec...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-outbound-strategist",
+    "path": "skills/agency-sales-outbound-strategist",
+    "category": "sales",
+    "name": "agency-sales-outbound-strategist",
+    "description": "Signal-based outbound specialist who designs multi-channel prospecting sequences, defines ICPs, and builds pipeline through research-driven personalization \u2014 not volume.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-pipeline-analyst",
+    "path": "skills/agency-sales-pipeline-analyst",
+    "category": "sales",
+    "name": "agency-sales-pipeline-analyst",
+    "description": "Revenue operations analyst specializing in pipeline health diagnostics, deal velocity analysis, forecast accuracy, and data-driven sales coaching. Turns CRM data into actionable pipeline intelligen...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-sales-proposal-strategist",
+    "path": "skills/agency-sales-proposal-strategist",
+    "category": "sales",
+    "name": "agency-sales-proposal-strategist",
+    "description": "Strategic proposal architect who transforms RFPs and sales opportunities into compelling win narratives. Specializes in win theme development, competitive positioning, executive summary craft, and ...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-cultural-intelligence-strategist",
+    "path": "skills/agency-specialized-cultural-intelligence-strategist",
+    "category": "specialized",
+    "name": "agency-specialized-cultural-intelligence-strategist",
+    "description": "CQ specialist that detects invisible exclusion, researches global context, and ensures software resonates authentically across intersectional identities.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-developer-advocate",
+    "path": "skills/agency-specialized-developer-advocate",
+    "category": "specialized",
+    "name": "agency-specialized-developer-advocate",
+    "description": "Expert developer advocate specializing in building developer communities, creating compelling technical content, optimizing developer experience (DX), and driving platform adoption through authenti...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-document-generator",
+    "path": "skills/agency-specialized-document-generator",
+    "category": "specialized",
+    "name": "agency-specialized-document-generator",
+    "description": "Expert document creation specialist who generates professional PDF, PPTX, DOCX, and XLSX files using code-based approaches with proper formatting, charts, and data visualization.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-french-consulting-market",
+    "path": "skills/agency-specialized-french-consulting-market",
+    "category": "specialized",
+    "name": "agency-specialized-french-consulting-market",
+    "description": "Navigate the French ESN/SI freelance ecosystem \u2014 margin models, platform mechanics (Malt, collective.work), portage salarial, rate positioning, and payment cycle realities",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-korean-business-navigator",
+    "path": "skills/agency-specialized-korean-business-navigator",
+    "category": "specialized",
+    "name": "agency-specialized-korean-business-navigator",
+    "description": "Korean business culture for foreign professionals \u2014 \ud488\uc758 decision process, nunchi reading, KakaoTalk business etiquette, hierarchy navigation, and relationship-first deal mechanics",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-mcp-builder",
+    "path": "skills/agency-specialized-mcp-builder",
+    "category": "specialized",
+    "name": "agency-specialized-mcp-builder",
+    "description": "Expert Model Context Protocol developer who designs, builds, and tests MCP servers that extend AI agent capabilities with custom tools, resources, and prompts.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-model-qa",
+    "path": "skills/agency-specialized-model-qa",
+    "category": "specialized",
+    "name": "agency-specialized-model-qa",
+    "description": "Independent model QA expert who audits ML and statistical models end-to-end - from documentation review and data reconstruction to replication, calibration testing, interpretability analysis, perfo...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-salesforce-architect",
+    "path": "skills/agency-specialized-salesforce-architect",
+    "category": "specialized",
+    "name": "agency-specialized-salesforce-architect",
+    "description": "Solution architecture for Salesforce platform \u2014 multi-cloud design, integration patterns, governor limits, deployment strategy, and data model governance for enterprise-scale orgs",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-specialized-workflow-architect",
+    "path": "skills/agency-specialized-workflow-architect",
+    "category": "specialized",
+    "name": "agency-specialized-workflow-architect",
+    "description": "Workflow design specialist who maps complete workflow trees for every system, user journey, and agent interaction \u2014 covering happy paths, all branch conditions, failure modes, recovery paths, hando...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-study-abroad-advisor",
+    "path": "skills/agency-study-abroad-advisor",
+    "category": "specialized",
+    "name": "agency-study-abroad-advisor",
+    "description": "Full-spectrum study abroad planning expert covering the US, UK, Canada, Australia, Europe, Hong Kong, and Singapore \u2014 proficient in undergraduate, master's, and PhD application strategy, school sel...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-supply-chain-strategist",
+    "path": "skills/agency-supply-chain-strategist",
+    "category": "specialized",
+    "name": "agency-supply-chain-strategist",
+    "description": "Expert supply chain management and procurement strategy specialist \u2014 skilled in supplier development, strategic sourcing, quality control, and supply chain digitalization. Grounded in China's manuf...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-support-analytics-reporter",
+    "path": "skills/agency-support-analytics-reporter",
+    "category": "support",
+    "name": "agency-support-analytics-reporter",
+    "description": "Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data vis...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-support-executive-summary-generator",
+    "path": "skills/agency-support-executive-summary-generator",
+    "category": "support",
+    "name": "agency-support-executive-summary-generator",
+    "description": "Consultant-grade AI specialist trained to think and communicate like a senior strategy consultant. Transforms complex business inputs into concise, actionable executive summaries using McKinsey SCQ...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-support-finance-tracker",
+    "path": "skills/agency-support-finance-tracker",
+    "category": "support",
+    "name": "agency-support-finance-tracker",
+    "description": "Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strat...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-support-infrastructure-maintainer",
+    "path": "skills/agency-support-infrastructure-maintainer",
+    "category": "support",
+    "name": "agency-support-infrastructure-maintainer",
+    "description": "Expert infrastructure specialist focused on system reliability, performance optimization, and technical operations management. Maintains robust, scalable infrastructure supporting business operatio...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-support-legal-compliance-checker",
+    "path": "skills/agency-support-legal-compliance-checker",
+    "category": "support",
+    "name": "agency-support-legal-compliance-checker",
+    "description": "Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions.",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-support-support-responder",
+    "path": "skills/agency-support-support-responder",
+    "category": "support",
+    "name": "agency-support-support-responder",
+    "description": "Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and tu...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-technical-artist",
+    "path": "skills/agency-technical-artist",
+    "category": "game-development",
+    "name": "agency-technical-artist",
+    "description": "Art-to-engine pipeline specialist - Masters shaders, VFX systems, LOD pipelines, performance budgeting, and cross-engine asset optimization",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-terminal-integration-specialist",
+    "path": "skills/agency-terminal-integration-specialist",
+    "category": "spatial-computing",
+    "name": "agency-terminal-integration-specialist",
+    "description": "Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-accessibility-auditor",
+    "path": "skills/agency-testing-accessibility-auditor",
+    "category": "testing",
+    "name": "agency-testing-accessibility-auditor",
+    "description": "Expert accessibility specialist who audits interfaces against WCAG standards, tests with assistive technologies, and ensures inclusive design. Defaults to finding barriers \u2014 if it's not tested with...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-api-tester",
+    "path": "skills/agency-testing-api-tester",
+    "category": "testing",
+    "name": "agency-testing-api-tester",
+    "description": "Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-evidence-collector",
+    "path": "skills/agency-testing-evidence-collector",
+    "category": "testing",
+    "name": "agency-testing-evidence-collector",
+    "description": "Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-performance-benchmarker",
+    "path": "skills/agency-testing-performance-benchmarker",
+    "category": "testing",
+    "name": "agency-testing-performance-benchmarker",
+    "description": "Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-reality-checker",
+    "path": "skills/agency-testing-reality-checker",
+    "category": "testing",
+    "name": "agency-testing-reality-checker",
+    "description": "Stops fantasy approvals, evidence-based certification - Default to \"NEEDS WORK\", requires overwhelming proof for production readiness",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-test-results-analyzer",
+    "path": "skills/agency-testing-test-results-analyzer",
+    "category": "testing",
+    "name": "agency-testing-test-results-analyzer",
+    "description": "Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-tool-evaluator",
+    "path": "skills/agency-testing-tool-evaluator",
+    "category": "testing",
+    "name": "agency-testing-tool-evaluator",
+    "description": "Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-testing-workflow-optimizer",
+    "path": "skills/agency-testing-workflow-optimizer",
+    "category": "testing",
+    "name": "agency-testing-workflow-optimizer",
+    "description": "Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-visionos-spatial-engineer",
+    "path": "skills/agency-visionos-spatial-engineer",
+    "category": "spatial-computing",
+    "name": "agency-visionos-spatial-engineer",
+    "description": "Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Glass design implementation",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-xr-cockpit-interaction-specialist",
+    "path": "skills/agency-xr-cockpit-interaction-specialist",
+    "category": "spatial-computing",
+    "name": "agency-xr-cockpit-interaction-specialist",
+    "description": "Specialist in designing and developing immersive cockpit-based control systems for XR environments",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-xr-immersive-developer",
+    "path": "skills/agency-xr-immersive-developer",
+    "category": "spatial-computing",
+    "name": "agency-xr-immersive-developer",
+    "description": "Expert WebXR and immersive technology developer with specialization in browser-based AR/VR/XR applications",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-xr-interface-architect",
+    "path": "skills/agency-xr-interface-architect",
+    "category": "spatial-computing",
+    "name": "agency-xr-interface-architect",
+    "description": "Spatial interaction designer and interface strategist for immersive AR/VR/XR environments",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
+    "id": "agency-zk-steward",
+    "path": "skills/agency-zk-steward",
+    "category": "specialized",
+    "name": "agency-zk-steward",
+    "description": "Knowledge-base steward in the spirit of Niklas Luhmann's Zettelkasten. Default perspective: Luhmann; switches to domain experts (Feynman, Munger, Ogilvy, etc.) by task. Enforces atomic notes, conne...",
+    "risk": "low",
+    "source": "agency-agents (MIT)"
+  },
+  {
     "id": "agent-evaluation",
     "path": "skills/agent-evaluation",
     "category": "uncategorized",
@@ -153,15 +1422,6 @@
     "source": "community"
   },
   {
-    "id": "ai-engineer",
-    "path": "skills/ai-engineer",
-    "category": "uncategorized",
-    "name": "Ai Engineer",
-    "description": "You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "ai-agent-development",
     "path": "skills/ai-agent-development",
     "category": "uncategorized",
@@ -178,6 +1438,15 @@
     "description": "Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration. Use when: build agent, AI agent, autonomous agent, tool ...",
     "risk": "unknown",
     "source": "vibeship-spawner-skills (Apache 2.0)"
+  },
+  {
+    "id": "ai-engineer",
+    "path": "skills/ai-engineer",
+    "category": "uncategorized",
+    "name": "Ai Engineer",
+    "description": "You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "ai-ml",
@@ -333,15 +1602,6 @@
     "source": "self"
   },
   {
-    "id": "api-documenter",
-    "path": "skills/api-documenter",
-    "category": "uncategorized",
-    "name": "Api Documenter",
-    "description": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "api-design-principles",
     "path": "skills/api-design-principles",
     "category": "uncategorized",
@@ -367,6 +1627,15 @@
     "description": "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "api-documenter",
+    "path": "skills/api-documenter",
+    "category": "uncategorized",
+    "name": "Api Documenter",
+    "description": "You are an expert API documentation specialist mastering modern developer experience through comprehensive, interactive, and AI-enhanced documentation.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "api-fuzzing-bug-bounty",
@@ -693,6 +1962,24 @@
     "source": "unknown"
   },
   {
+    "id": "azure-ai-anomalydetector-java",
+    "path": "skills/azure-ai-anomalydetector-java",
+    "category": "uncategorized",
+    "name": "azure-ai-anomalydetector-java",
+    "description": "Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-series analysis, or AI-powered monitoring.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-ai-contentsafety-java",
+    "path": "skills/azure-ai-contentsafety-java",
+    "category": "uncategorized",
+    "name": "azure-ai-contentsafety-java",
+    "description": "Build content moderation applications with Azure AI Content Safety SDK for Java. Use when implementing text/image analysis, blocklist management, or harm detection for hate, violence, sexual conten...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-ai-contentsafety-py",
     "path": "skills/azure-ai-contentsafety-py",
     "category": "uncategorized",
@@ -700,6 +1987,15 @@
     "description": "Detect harmful user-generated and AI-generated content in applications.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-ai-contentsafety-ts",
+    "path": "skills/azure-ai-contentsafety-ts",
+    "category": "uncategorized",
+    "name": "azure-ai-contentsafety-ts",
+    "description": "Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety). Use when moderating user-generated content, detecting hate speech, violence, sexual conten...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-ai-contentunderstanding-py",
@@ -718,6 +2014,24 @@
     "description": "Extract text, tables, and structured data from documents using prebuilt and custom models.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-ai-document-intelligence-ts",
+    "path": "skills/azure-ai-document-intelligence-ts",
+    "category": "uncategorized",
+    "name": "azure-ai-document-intelligence-ts",
+    "description": "Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when processing invoices, receipts, IDs, forms, or building cu...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-ai-formrecognizer-java",
+    "path": "skills/azure-ai-formrecognizer-java",
+    "category": "uncategorized",
+    "name": "azure-ai-formrecognizer-java",
+    "description": "Build document analysis applications with Azure Document Intelligence (Form Recognizer) SDK for Java. Use when extracting text, tables, key-value pairs from documents, receipts, invoices, or buildi...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-ai-ml-py",
@@ -756,6 +2070,24 @@
     "source": "unknown"
   },
   {
+    "id": "azure-ai-projects-py",
+    "path": "skills/azure-ai-projects-py",
+    "category": "uncategorized",
+    "name": "azure-ai-projects-py",
+    "description": "Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects). Use when working with Foundry project clients, creating versioned agents with PromptAgentDefinition, running evalua...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-ai-projects-ts",
+    "path": "skills/azure-ai-projects-ts",
+    "category": "uncategorized",
+    "name": "azure-ai-projects-ts",
+    "description": "Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-projects). Use when working with Foundry project clients, agents, connections, deployments, datasets, indexes, evaluation...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-ai-textanalytics-py",
     "path": "skills/azure-ai-textanalytics-py",
     "category": "uncategorized",
@@ -792,6 +2124,24 @@
     "source": "unknown"
   },
   {
+    "id": "azure-ai-translation-ts",
+    "path": "skills/azure-ai-translation-ts",
+    "category": "uncategorized",
+    "name": "azure-ai-translation-ts",
+    "description": "Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest/ai-translation-document). Use when implementing text translation, transliter...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-ai-vision-imageanalysis-java",
+    "path": "skills/azure-ai-vision-imageanalysis-java",
+    "category": "uncategorized",
+    "name": "azure-ai-vision-imageanalysis-java",
+    "description": "Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, or smart cropping.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-ai-vision-imageanalysis-py",
     "path": "skills/azure-ai-vision-imageanalysis-py",
     "category": "uncategorized",
@@ -817,6 +2167,15 @@
     "description": "Real-time, bidirectional voice conversations with AI assistants using WebSocket technology.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-ai-voicelive-py",
+    "path": "skills/azure-ai-voicelive-py",
+    "category": "uncategorized",
+    "name": "azure-ai-voicelive-py",
+    "description": "Build real-time voice AI applications using Azure AI Voice Live SDK (azure-ai-voicelive). Use this skill when creating Python applications that need real-time bidirectional audio communication with...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-ai-voicelive-ts",
@@ -846,6 +2205,60 @@
     "source": "unknown"
   },
   {
+    "id": "azure-appconfiguration-ts",
+    "path": "skills/azure-appconfiguration-ts",
+    "category": "uncategorized",
+    "name": "azure-appconfiguration-ts",
+    "description": "Build applications using Azure App Configuration SDK for JavaScript (@azure/app-configuration). Use when working with configuration settings, feature flags, Key Vault references, dynamic refresh, o...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-communication-callautomation-java",
+    "path": "skills/azure-communication-callautomation-java",
+    "category": "uncategorized",
+    "name": "azure-communication-callautomation-java",
+    "description": "Build call automation workflows with Azure Communication Services Call Automation Java SDK. Use when implementing IVR systems, call routing, call recording, DTMF recognition, text-to-speech, or AI-...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-communication-callingserver-java",
+    "path": "skills/azure-communication-callingserver-java",
+    "category": "uncategorized",
+    "name": "azure-communication-callingserver-java",
+    "description": "Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is deprecated. Use azure-communication-callautomation instead for new projects. Only use this skill when maintaining le...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-communication-chat-java",
+    "path": "skills/azure-communication-chat-java",
+    "category": "uncategorized",
+    "name": "azure-communication-chat-java",
+    "description": "Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, messaging, participants, read receipts, typing notifications, or real-time cha...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-communication-common-java",
+    "path": "skills/azure-communication-common-java",
+    "category": "uncategorized",
+    "name": "azure-communication-common-java",
+    "description": "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-communication-sms-java",
+    "path": "skills/azure-communication-sms-java",
+    "category": "uncategorized",
+    "name": "azure-communication-sms-java",
+    "description": "Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-compute-batch-java",
     "path": "skills/azure-compute-batch-java",
     "category": "uncategorized",
@@ -862,6 +2275,15 @@
     "description": "Manage container images, artifacts, and repositories in Azure Container Registry.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-cosmos-db-py",
+    "path": "skills/azure-cosmos-db-py",
+    "category": "uncategorized",
+    "name": "azure-cosmos-db-py",
+    "description": "Build Azure Cosmos DB NoSQL services with Python/FastAPI following production-grade patterns. Use when implementing database client setup with dual auth (DefaultAzureCredential + emulator), service...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-cosmos-java",
@@ -900,6 +2322,15 @@
     "source": "unknown"
   },
   {
+    "id": "azure-data-tables-java",
+    "path": "skills/azure-data-tables-java",
+    "category": "uncategorized",
+    "name": "azure-data-tables-java",
+    "description": "Build table storage applications with Azure Tables SDK for Java. Use when working with Azure Table Storage or Cosmos DB Table API for NoSQL key-value data, schemaless storage, or structured data at...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-data-tables-py",
     "path": "skills/azure-data-tables-py",
     "category": "uncategorized",
@@ -916,6 +2347,15 @@
     "description": "Client library for publishing events to Azure Event Grid topics, domains, and namespaces.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-eventgrid-java",
+    "path": "skills/azure-eventgrid-java",
+    "category": "uncategorized",
+    "name": "azure-eventgrid-java",
+    "description": "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events.",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-eventgrid-py",
@@ -936,6 +2376,15 @@
     "source": "unknown"
   },
   {
+    "id": "azure-eventhub-java",
+    "path": "skills/azure-eventhub-java",
+    "category": "uncategorized",
+    "name": "azure-eventhub-java",
+    "description": "Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-eventhub-py",
     "path": "skills/azure-eventhub-py",
     "category": "uncategorized",
@@ -954,6 +2403,24 @@
     "source": "unknown"
   },
   {
+    "id": "azure-eventhub-ts",
+    "path": "skills/azure-eventhub-ts",
+    "category": "uncategorized",
+    "name": "azure-eventhub-ts",
+    "description": "Build event streaming applications using Azure Event Hubs SDK for JavaScript (@azure/event-hubs). Use when implementing high-throughput event ingestion, real-time analytics, IoT telemetry, or event...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-functions",
+    "path": "skills/azure-functions",
+    "category": "uncategorized",
+    "name": "azure-functions",
+    "description": "Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js ...",
+    "risk": "unknown",
+    "source": "vibeship-spawner-skills (Apache 2.0)"
+  },
+  {
     "id": "azure-identity-dotnet",
     "path": "skills/azure-identity-dotnet",
     "category": "uncategorized",
@@ -961,6 +2428,15 @@
     "description": "Authentication library for Azure SDK clients using Microsoft Entra ID (formerly Azure AD).",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-identity-java",
+    "path": "skills/azure-identity-java",
+    "category": "uncategorized",
+    "name": "azure-identity-java",
+    "description": "Azure Identity Java SDK for authentication with Azure services. Use when implementing DefaultAzureCredential, managed identity, service principal, or any Azure authentication pattern in Java applic...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-identity-py",
@@ -981,6 +2457,15 @@
     "source": "unknown"
   },
   {
+    "id": "azure-identity-ts",
+    "path": "skills/azure-identity-ts",
+    "category": "uncategorized",
+    "name": "azure-identity-ts",
+    "description": "Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, managed identity, service principals, or i...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-keyvault-certificates-rust",
     "path": "skills/azure-keyvault-certificates-rust",
     "category": "uncategorized",
@@ -997,6 +2482,15 @@
     "description": "Client library for Azure Key Vault Keys \u2014 secure storage and management of cryptographic keys.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-keyvault-keys-ts",
+    "path": "skills/azure-keyvault-keys-ts",
+    "category": "uncategorized",
+    "name": "azure-keyvault-keys-ts",
+    "description": "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-keyvault-py",
@@ -1017,6 +2511,15 @@
     "source": "unknown"
   },
   {
+    "id": "azure-keyvault-secrets-ts",
+    "path": "skills/azure-keyvault-secrets-ts",
+    "category": "uncategorized",
+    "name": "azure-keyvault-secrets-ts",
+    "description": "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-maps-search-dotnet",
     "path": "skills/azure-maps-search-dotnet",
     "category": "uncategorized",
@@ -1024,6 +2527,15 @@
     "description": "Azure Maps SDK for .NET providing location-based services: geocoding, routing, rendering, geolocation, and weather.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-messaging-webpubsub-java",
+    "path": "skills/azure-messaging-webpubsub-java",
+    "category": "uncategorized",
+    "name": "azure-messaging-webpubsub-java",
+    "description": "Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or server-to-client push notifications.",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-messaging-webpubsubservice-py",
@@ -1125,6 +2637,15 @@
     "source": "unknown"
   },
   {
+    "id": "azure-mgmt-mongodbatlas-dotnet",
+    "path": "skills/azure-mgmt-mongodbatlas-dotnet",
+    "category": "uncategorized",
+    "name": "azure-mgmt-mongodbatlas-dotnet",
+    "description": "Manage MongoDB Atlas Organizations as Azure ARM resources using Azure.ResourceManager.MongoDBAtlas SDK. Use when creating, updating, listing, or deleting MongoDB Atlas organizations through Azure M...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-mgmt-weightsandbiases-dotnet",
     "path": "skills/azure-mgmt-weightsandbiases-dotnet",
     "category": "uncategorized",
@@ -1132,6 +2653,15 @@
     "description": "Azure Resource Manager SDK for deploying and managing Weights & Biases ML experiment tracking instances via Azure Marketplace.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-microsoft-playwright-testing-ts",
+    "path": "skills/azure-microsoft-playwright-testing-ts",
+    "category": "uncategorized",
+    "name": "azure-microsoft-playwright-testing-ts",
+    "description": "Run Playwright tests at scale using Azure Playwright Workspaces (formerly Microsoft Playwright Testing). Use when scaling browser tests across cloud-hosted browsers, integrating with CI/CD pipeline...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-monitor-ingestion-java",
@@ -1177,6 +2707,15 @@
     "description": "One-line setup for Application Insights with OpenTelemetry auto-instrumentation.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-monitor-opentelemetry-ts",
+    "path": "skills/azure-monitor-opentelemetry-ts",
+    "category": "uncategorized",
+    "name": "azure-monitor-opentelemetry-ts",
+    "description": "Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@azure/monitor-opentelemetry). Use when adding distributed tracing, metrics, and logs to Node.js applications with Appli...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-monitor-query-java",
@@ -1287,6 +2826,15 @@
     "source": "unknown"
   },
   {
+    "id": "azure-search-documents-ts",
+    "path": "skills/azure-search-documents-ts",
+    "category": "uncategorized",
+    "name": "azure-search-documents-ts",
+    "description": "Build search applications using Azure AI Search SDK for JavaScript (@azure/search-documents). Use when creating/managing indexes, implementing vector/hybrid search, semantic ranking, or building ag...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-security-keyvault-keys-dotnet",
     "path": "skills/azure-security-keyvault-keys-dotnet",
     "category": "uncategorized",
@@ -1294,6 +2842,24 @@
     "description": "Client library for managing cryptographic keys in Azure Key Vault and Managed HSM.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-security-keyvault-keys-java",
+    "path": "skills/azure-security-keyvault-keys-java",
+    "category": "uncategorized",
+    "name": "azure-security-keyvault-keys-java",
+    "description": "Azure Key Vault Keys Java SDK for cryptographic key management. Use when creating, managing, or using RSA/EC keys, performing encrypt/decrypt/sign/verify operations, or working with HSM-backed keys.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
+    "id": "azure-security-keyvault-secrets-java",
+    "path": "skills/azure-security-keyvault-secrets-java",
+    "category": "uncategorized",
+    "name": "azure-security-keyvault-secrets-java",
+    "description": "Azure Key Vault Secrets Java SDK for secret management. Use when storing, retrieving, or managing passwords, API keys, connection strings, or other sensitive configuration data.",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-servicebus-dotnet",
@@ -1314,6 +2880,15 @@
     "source": "unknown"
   },
   {
+    "id": "azure-servicebus-ts",
+    "path": "skills/azure-servicebus-ts",
+    "category": "uncategorized",
+    "name": "azure-servicebus-ts",
+    "description": "Build messaging applications using Azure Service Bus SDK for JavaScript (@azure/service-bus). Use when implementing queues, topics/subscriptions, message sessions, dead-letter handling, or enterpri...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "azure-speech-to-text-rest-py",
     "path": "skills/azure-speech-to-text-rest-py",
     "category": "uncategorized",
@@ -1321,6 +2896,15 @@
     "description": "Simple REST API for speech-to-text transcription of short audio files (up to 60 seconds). No SDK required - just HTTP requests.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "azure-storage-blob-java",
+    "path": "skills/azure-storage-blob-java",
+    "category": "uncategorized",
+    "name": "azure-storage-blob-java",
+    "description": "Build blob storage applications with Azure Storage Blob SDK for Java. Use when uploading, downloading, or managing files in Azure Blob Storage, working with containers, or implementing streaming da...",
+    "risk": "unknown",
+    "source": "community"
   },
   {
     "id": "azure-storage-blob-py",
@@ -1395,321 +2979,6 @@
     "source": "unknown"
   },
   {
-    "id": "azure-ai-anomalydetector-java",
-    "path": "skills/azure-ai-anomalydetector-java",
-    "category": "uncategorized",
-    "name": "azure-ai-anomalydetector-java",
-    "description": "Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-series analysis, or AI-powered monitoring.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-contentsafety-java",
-    "path": "skills/azure-ai-contentsafety-java",
-    "category": "uncategorized",
-    "name": "azure-ai-contentsafety-java",
-    "description": "Build content moderation applications with Azure AI Content Safety SDK for Java. Use when implementing text/image analysis, blocklist management, or harm detection for hate, violence, sexual conten...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-contentsafety-ts",
-    "path": "skills/azure-ai-contentsafety-ts",
-    "category": "uncategorized",
-    "name": "azure-ai-contentsafety-ts",
-    "description": "Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety). Use when moderating user-generated content, detecting hate speech, violence, sexual conten...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-document-intelligence-ts",
-    "path": "skills/azure-ai-document-intelligence-ts",
-    "category": "uncategorized",
-    "name": "azure-ai-document-intelligence-ts",
-    "description": "Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when processing invoices, receipts, IDs, forms, or building cu...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-formrecognizer-java",
-    "path": "skills/azure-ai-formrecognizer-java",
-    "category": "uncategorized",
-    "name": "azure-ai-formrecognizer-java",
-    "description": "Build document analysis applications with Azure Document Intelligence (Form Recognizer) SDK for Java. Use when extracting text, tables, key-value pairs from documents, receipts, invoices, or buildi...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-projects-py",
-    "path": "skills/azure-ai-projects-py",
-    "category": "uncategorized",
-    "name": "azure-ai-projects-py",
-    "description": "Build AI applications using the Azure AI Projects Python SDK (azure-ai-projects). Use when working with Foundry project clients, creating versioned agents with PromptAgentDefinition, running evalua...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-projects-ts",
-    "path": "skills/azure-ai-projects-ts",
-    "category": "uncategorized",
-    "name": "azure-ai-projects-ts",
-    "description": "Build AI applications using Azure AI Projects SDK for JavaScript (@azure/ai-projects). Use when working with Foundry project clients, agents, connections, deployments, datasets, indexes, evaluation...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-translation-ts",
-    "path": "skills/azure-ai-translation-ts",
-    "category": "uncategorized",
-    "name": "azure-ai-translation-ts",
-    "description": "Build translation applications using Azure Translation SDKs for JavaScript (@azure-rest/ai-translation-text, @azure-rest/ai-translation-document). Use when implementing text translation, transliter...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-vision-imageanalysis-java",
-    "path": "skills/azure-ai-vision-imageanalysis-java",
-    "category": "uncategorized",
-    "name": "azure-ai-vision-imageanalysis-java",
-    "description": "Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, or smart cropping.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-ai-voicelive-py",
-    "path": "skills/azure-ai-voicelive-py",
-    "category": "uncategorized",
-    "name": "azure-ai-voicelive-py",
-    "description": "Build real-time voice AI applications using Azure AI Voice Live SDK (azure-ai-voicelive). Use this skill when creating Python applications that need real-time bidirectional audio communication with...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-appconfiguration-ts",
-    "path": "skills/azure-appconfiguration-ts",
-    "category": "uncategorized",
-    "name": "azure-appconfiguration-ts",
-    "description": "Build applications using Azure App Configuration SDK for JavaScript (@azure/app-configuration). Use when working with configuration settings, feature flags, Key Vault references, dynamic refresh, o...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-communication-callautomation-java",
-    "path": "skills/azure-communication-callautomation-java",
-    "category": "uncategorized",
-    "name": "azure-communication-callautomation-java",
-    "description": "Build call automation workflows with Azure Communication Services Call Automation Java SDK. Use when implementing IVR systems, call routing, call recording, DTMF recognition, text-to-speech, or AI-...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-communication-callingserver-java",
-    "path": "skills/azure-communication-callingserver-java",
-    "category": "uncategorized",
-    "name": "azure-communication-callingserver-java",
-    "description": "Azure Communication Services CallingServer (legacy) Java SDK. Note - This SDK is deprecated. Use azure-communication-callautomation instead for new projects. Only use this skill when maintaining le...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-communication-chat-java",
-    "path": "skills/azure-communication-chat-java",
-    "category": "uncategorized",
-    "name": "azure-communication-chat-java",
-    "description": "Build real-time chat applications with Azure Communication Services Chat Java SDK. Use when implementing chat threads, messaging, participants, read receipts, typing notifications, or real-time cha...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-communication-common-java",
-    "path": "skills/azure-communication-common-java",
-    "category": "uncategorized",
-    "name": "azure-communication-common-java",
-    "description": "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-communication-sms-java",
-    "path": "skills/azure-communication-sms-java",
-    "category": "uncategorized",
-    "name": "azure-communication-sms-java",
-    "description": "Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-cosmos-db-py",
-    "path": "skills/azure-cosmos-db-py",
-    "category": "uncategorized",
-    "name": "azure-cosmos-db-py",
-    "description": "Build Azure Cosmos DB NoSQL services with Python/FastAPI following production-grade patterns. Use when implementing database client setup with dual auth (DefaultAzureCredential + emulator), service...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-data-tables-java",
-    "path": "skills/azure-data-tables-java",
-    "category": "uncategorized",
-    "name": "azure-data-tables-java",
-    "description": "Build table storage applications with Azure Tables SDK for Java. Use when working with Azure Table Storage or Cosmos DB Table API for NoSQL key-value data, schemaless storage, or structured data at...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-eventgrid-java",
-    "path": "skills/azure-eventgrid-java",
-    "category": "uncategorized",
-    "name": "azure-eventgrid-java",
-    "description": "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-eventhub-java",
-    "path": "skills/azure-eventhub-java",
-    "category": "uncategorized",
-    "name": "azure-eventhub-java",
-    "description": "Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-eventhub-ts",
-    "path": "skills/azure-eventhub-ts",
-    "category": "uncategorized",
-    "name": "azure-eventhub-ts",
-    "description": "Build event streaming applications using Azure Event Hubs SDK for JavaScript (@azure/event-hubs). Use when implementing high-throughput event ingestion, real-time analytics, IoT telemetry, or event...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-functions",
-    "path": "skills/azure-functions",
-    "category": "uncategorized",
-    "name": "azure-functions",
-    "description": "Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js ...",
-    "risk": "unknown",
-    "source": "vibeship-spawner-skills (Apache 2.0)"
-  },
-  {
-    "id": "azure-identity-java",
-    "path": "skills/azure-identity-java",
-    "category": "uncategorized",
-    "name": "azure-identity-java",
-    "description": "Azure Identity Java SDK for authentication with Azure services. Use when implementing DefaultAzureCredential, managed identity, service principal, or any Azure authentication pattern in Java applic...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-identity-ts",
-    "path": "skills/azure-identity-ts",
-    "category": "uncategorized",
-    "name": "azure-identity-ts",
-    "description": "Authenticate to Azure services using Azure Identity SDK for JavaScript (@azure/identity). Use when configuring authentication with DefaultAzureCredential, managed identity, service principals, or i...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-keyvault-keys-ts",
-    "path": "skills/azure-keyvault-keys-ts",
-    "category": "uncategorized",
-    "name": "azure-keyvault-keys-ts",
-    "description": "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-keyvault-secrets-ts",
-    "path": "skills/azure-keyvault-secrets-ts",
-    "category": "uncategorized",
-    "name": "azure-keyvault-secrets-ts",
-    "description": "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-messaging-webpubsub-java",
-    "path": "skills/azure-messaging-webpubsub-java",
-    "category": "uncategorized",
-    "name": "azure-messaging-webpubsub-java",
-    "description": "Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or server-to-client push notifications.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-mgmt-mongodbatlas-dotnet",
-    "path": "skills/azure-mgmt-mongodbatlas-dotnet",
-    "category": "uncategorized",
-    "name": "azure-mgmt-mongodbatlas-dotnet",
-    "description": "Manage MongoDB Atlas Organizations as Azure ARM resources using Azure.ResourceManager.MongoDBAtlas SDK. Use when creating, updating, listing, or deleting MongoDB Atlas organizations through Azure M...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-microsoft-playwright-testing-ts",
-    "path": "skills/azure-microsoft-playwright-testing-ts",
-    "category": "uncategorized",
-    "name": "azure-microsoft-playwright-testing-ts",
-    "description": "Run Playwright tests at scale using Azure Playwright Workspaces (formerly Microsoft Playwright Testing). Use when scaling browser tests across cloud-hosted browsers, integrating with CI/CD pipeline...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-monitor-opentelemetry-ts",
-    "path": "skills/azure-monitor-opentelemetry-ts",
-    "category": "uncategorized",
-    "name": "azure-monitor-opentelemetry-ts",
-    "description": "Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@azure/monitor-opentelemetry). Use when adding distributed tracing, metrics, and logs to Node.js applications with Appli...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-search-documents-ts",
-    "path": "skills/azure-search-documents-ts",
-    "category": "uncategorized",
-    "name": "azure-search-documents-ts",
-    "description": "Build search applications using Azure AI Search SDK for JavaScript (@azure/search-documents). Use when creating/managing indexes, implementing vector/hybrid search, semantic ranking, or building ag...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-security-keyvault-keys-java",
-    "path": "skills/azure-security-keyvault-keys-java",
-    "category": "uncategorized",
-    "name": "azure-security-keyvault-keys-java",
-    "description": "Azure Key Vault Keys Java SDK for cryptographic key management. Use when creating, managing, or using RSA/EC keys, performing encrypt/decrypt/sign/verify operations, or working with HSM-backed keys.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-security-keyvault-secrets-java",
-    "path": "skills/azure-security-keyvault-secrets-java",
-    "category": "uncategorized",
-    "name": "azure-security-keyvault-secrets-java",
-    "description": "Azure Key Vault Secrets Java SDK for secret management. Use when storing, retrieving, or managing passwords, API keys, connection strings, or other sensitive configuration data.",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-servicebus-ts",
-    "path": "skills/azure-servicebus-ts",
-    "category": "uncategorized",
-    "name": "azure-servicebus-ts",
-    "description": "Build messaging applications using Azure Service Bus SDK for JavaScript (@azure/service-bus). Use when implementing queues, topics/subscriptions, message sessions, dead-letter handling, or enterpri...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
-    "id": "azure-storage-blob-java",
-    "path": "skills/azure-storage-blob-java",
-    "category": "uncategorized",
-    "name": "azure-storage-blob-java",
-    "description": "Build blob storage applications with Azure Storage Blob SDK for Java. Use when uploading, downloading, or managing files in Azure Blob Storage, working with containers, or implementing streaming da...",
-    "risk": "unknown",
-    "source": "community"
-  },
-  {
     "id": "azure-web-pubsub-ts",
     "path": "skills/azure-web-pubsub-ts",
     "category": "uncategorized",
@@ -1724,15 +2993,6 @@
     "category": "uncategorized",
     "name": "Backend Architect",
     "description": "You are a backend system architect specializing in scalable, resilient, and maintainable backend systems and APIs.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "backend-security-coder",
-    "path": "skills/backend-security-coder",
-    "category": "uncategorized",
-    "name": "Backend Security Coder",
-    "description": "- Working on backend security coder tasks or workflows - Needing guidance, best practices, or checklists for backend security coder",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -1753,6 +3013,15 @@
     "description": "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "backend-security-coder",
+    "path": "skills/backend-security-coder",
+    "category": "uncategorized",
+    "name": "Backend Security Coder",
+    "description": "- Working on backend security coder tasks or workflows - Needing guidance, best practices, or checklists for backend security coder",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "backtesting-frameworks",
@@ -1791,15 +3060,6 @@
     "source": "community"
   },
   {
-    "id": "bash-pro",
-    "path": "skills/bash-pro",
-    "category": "uncategorized",
-    "name": "Bash Pro",
-    "description": "- Writing or reviewing Bash scripts for automation, CI/CD, or ops - Hardening shell scripts for safety and portability",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "bash-defensive-patterns",
     "path": "skills/bash-defensive-patterns",
     "category": "uncategorized",
@@ -1816,6 +3076,15 @@
     "description": "Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "bash-pro",
+    "path": "skills/bash-pro",
+    "category": "uncategorized",
+    "name": "Bash Pro",
+    "description": "- Writing or reviewing Bash scripts for automation, CI/CD, or ops - Hardening shell scripts for safety and portability",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "bash-scripting",
@@ -2043,6 +3312,15 @@
     "source": "community"
   },
   {
+    "id": "c4-architecture-c4-architecture",
+    "path": "skills/c4-architecture-c4-architecture",
+    "category": "uncategorized",
+    "name": "c4-architecture-c4-architecture",
+    "description": "Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach.",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "c4-code",
     "path": "skills/c4-code",
     "category": "uncategorized",
@@ -2077,15 +3355,6 @@
     "description": "- Working on c4 context level: system context tasks or workflows - Needing guidance, best practices, or checklists for c4 context level: system context",
     "risk": "unknown",
     "source": "unknown"
-  },
-  {
-    "id": "c4-architecture-c4-architecture",
-    "path": "skills/c4-architecture-c4-architecture",
-    "category": "uncategorized",
-    "name": "c4-architecture-c4-architecture",
-    "description": "Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach.",
-    "risk": "unknown",
-    "source": "community"
   },
   {
     "id": "cal-com-automation",
@@ -2574,24 +3843,6 @@
     "source": "community"
   },
   {
-    "id": "conductor-setup",
-    "path": "skills/conductor-setup",
-    "category": "uncategorized",
-    "name": "Conductor Setup",
-    "description": "Initialize or resume Conductor project setup. This command creates foundational project documentation through interactive Q&A.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "conductor-validator",
-    "path": "skills/conductor-validator",
-    "category": "uncategorized",
-    "name": "Conductor Validator",
-    "description": "ls -la conductor/",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "conductor-implement",
     "path": "skills/conductor-implement",
     "category": "uncategorized",
@@ -2628,6 +3879,15 @@
     "source": "community"
   },
   {
+    "id": "conductor-setup",
+    "path": "skills/conductor-setup",
+    "category": "uncategorized",
+    "name": "Conductor Setup",
+    "description": "Initialize or resume Conductor project setup. This command creates foundational project documentation through interactive Q&A.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "conductor-status",
     "path": "skills/conductor-status",
     "category": "uncategorized",
@@ -2635,6 +3895,15 @@
     "description": "Display project status, active tracks, and next actions",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "conductor-validator",
+    "path": "skills/conductor-validator",
+    "category": "uncategorized",
+    "name": "Conductor Validator",
+    "description": "ls -la conductor/",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "confluence-automation",
@@ -2646,15 +3915,6 @@
     "source": "community"
   },
   {
-    "id": "content-marketer",
-    "path": "skills/content-marketer",
-    "category": "uncategorized",
-    "name": "Content Marketer",
-    "description": "- Working on content marketer tasks or workflows - Needing guidance, best practices, or checklists for content marketer",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "content-creator",
     "path": "skills/content-creator",
     "category": "uncategorized",
@@ -2664,20 +3924,11 @@
     "source": "community"
   },
   {
-    "id": "context-driven-development",
-    "path": "skills/context-driven-development",
+    "id": "content-marketer",
+    "path": "skills/content-marketer",
     "category": "uncategorized",
-    "name": "Context Driven Development",
-    "description": "Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentation.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "context-manager",
-    "path": "skills/context-manager",
-    "category": "uncategorized",
-    "name": "Context Manager",
-    "description": "- Working on context manager tasks or workflows - Needing guidance, best practices, or checklists for context manager",
+    "name": "Content Marketer",
+    "description": "- Working on content marketer tasks or workflows - Needing guidance, best practices, or checklists for content marketer",
     "risk": "unknown",
     "source": "unknown"
   },
@@ -2698,6 +3949,15 @@
     "description": "Recognize patterns of context failure: lost-in-middle, poisoning, distraction, and clash",
     "risk": "safe",
     "source": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-degradation"
+  },
+  {
+    "id": "context-driven-development",
+    "path": "skills/context-driven-development",
+    "category": "uncategorized",
+    "name": "Context Driven Development",
+    "description": "Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentation.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "context-fundamentals",
@@ -2725,6 +3985,15 @@
     "description": "Use when working with context management context save",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "context-manager",
+    "path": "skills/context-manager",
+    "category": "uncategorized",
+    "name": "Context Manager",
+    "description": "- Working on context manager tasks or workflows - Needing guidance, best practices, or checklists for context manager",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "context-optimization",
@@ -2907,15 +4176,6 @@
     "source": "unknown"
   },
   {
-    "id": "data-scientist",
-    "path": "skills/data-scientist",
-    "category": "uncategorized",
-    "name": "Data Scientist",
-    "description": "- Working on data scientist tasks or workflows - Needing guidance, best practices, or checklists for data scientist",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "data-engineering-data-driven-feature",
     "path": "skills/data-engineering-data-driven-feature",
     "category": "uncategorized",
@@ -2941,6 +4201,15 @@
     "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "data-scientist",
+    "path": "skills/data-scientist",
+    "category": "uncategorized",
+    "name": "Data Scientist",
+    "description": "- Working on data scientist tasks or workflows - Needing guidance, best practices, or checklists for data scientist",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "data-storytelling",
@@ -2988,15 +4257,6 @@
     "source": "unknown"
   },
   {
-    "id": "database-optimizer",
-    "path": "skills/database-optimizer",
-    "category": "uncategorized",
-    "name": "Database Optimizer",
-    "description": "- Working on database optimizer tasks or workflows - Needing guidance, best practices, or checklists for database optimizer",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "database-cloud-optimization-cost-optimize",
     "path": "skills/database-cloud-optimization-cost-optimize",
     "category": "uncategorized",
@@ -3040,6 +4300,15 @@
     "description": "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "database-optimizer",
+    "path": "skills/database-optimizer",
+    "category": "uncategorized",
+    "name": "Database Optimizer",
+    "description": "- Working on database optimizer tasks or workflows - Needing guidance, best practices, or checklists for database optimizer",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "datadog-automation",
@@ -3510,15 +4779,6 @@
     "source": "community"
   },
   {
-    "id": "error-detective",
-    "path": "skills/error-detective",
-    "category": "uncategorized",
-    "name": "Error Detective",
-    "description": "- Working on error detective tasks or workflows - Needing guidance, best practices, or checklists for error detective",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "error-debugging-error-analysis",
     "path": "skills/error-debugging-error-analysis",
     "category": "uncategorized",
@@ -3544,6 +4804,15 @@
     "description": "Use when working with error debugging multi agent review",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "error-detective",
+    "path": "skills/error-detective",
+    "category": "uncategorized",
+    "name": "Error Detective",
+    "description": "- Working on error detective tasks or workflows - Needing guidance, best practices, or checklists for error detective",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "error-diagnostics-error-analysis",
@@ -3924,24 +5193,6 @@
     "source": "community"
   },
   {
-    "id": "frontend-developer",
-    "path": "skills/frontend-developer",
-    "category": "uncategorized",
-    "name": "Frontend Developer",
-    "description": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "frontend-security-coder",
-    "path": "skills/frontend-security-coder",
-    "category": "uncategorized",
-    "name": "Frontend Security Coder",
-    "description": "- Working on frontend security coder tasks or workflows - Needing guidance, best practices, or checklists for frontend security coder",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "frontend-design",
     "path": "skills/frontend-design",
     "category": "uncategorized",
@@ -3960,6 +5211,15 @@
     "source": "community"
   },
   {
+    "id": "frontend-developer",
+    "path": "skills/frontend-developer",
+    "category": "uncategorized",
+    "name": "Frontend Developer",
+    "description": "You are a frontend development expert specializing in modern React applications, Next.js, and cutting-edge frontend architecture.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "frontend-mobile-development-component-scaffold",
     "path": "skills/frontend-mobile-development-component-scaffold",
     "category": "uncategorized",
@@ -3976,6 +5236,15 @@
     "description": "You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention. Analyze React, Vue, Angular, and vanilla JavaScript code to identify injection poi",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "frontend-security-coder",
+    "path": "skills/frontend-security-coder",
+    "category": "uncategorized",
+    "name": "Frontend Security Coder",
+    "description": "- Working on frontend security coder tasks or workflows - Needing guidance, best practices, or checklists for frontend security coder",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "frontend-slides",
@@ -4725,15 +5994,6 @@
     "source": "unknown"
   },
   {
-    "id": "javascript-pro",
-    "path": "skills/javascript-pro",
-    "category": "uncategorized",
-    "name": "Javascript Pro",
-    "description": "You are a JavaScript expert specializing in modern JS and async programming.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "javascript-mastery",
     "path": "skills/javascript-mastery",
     "category": "uncategorized",
@@ -4741,6 +6001,15 @@
     "description": "Comprehensive JavaScript reference covering 33+ essential concepts every developer should know. From fundamentals like primitives and closures to advanced patterns like async/await and functional p...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "javascript-pro",
+    "path": "skills/javascript-pro",
+    "category": "uncategorized",
+    "name": "Javascript Pro",
+    "description": "You are a JavaScript expert specializing in modern JS and async programming.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "javascript-testing-patterns",
@@ -5319,24 +6588,6 @@
     "source": "unknown"
   },
   {
-    "id": "mobile-developer",
-    "path": "skills/mobile-developer",
-    "category": "uncategorized",
-    "name": "Mobile Developer",
-    "description": "- Working on mobile developer tasks or workflows - Needing guidance, best practices, or checklists for mobile developer",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "mobile-security-coder",
-    "path": "skills/mobile-security-coder",
-    "category": "uncategorized",
-    "name": "Mobile Security Coder",
-    "description": "- Working on mobile security coder tasks or workflows - Needing guidance, best practices, or checklists for mobile security coder",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "mobile-design",
     "path": "skills/mobile-design",
     "category": "uncategorized",
@@ -5346,6 +6597,15 @@
     "source": "community"
   },
   {
+    "id": "mobile-developer",
+    "path": "skills/mobile-developer",
+    "category": "uncategorized",
+    "name": "Mobile Developer",
+    "description": "- Working on mobile developer tasks or workflows - Needing guidance, best practices, or checklists for mobile developer",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "mobile-games",
     "path": "skills/game-development/mobile-games",
     "category": "game-development",
@@ -5353,6 +6613,15 @@
     "description": "Mobile game development principles. Touch input, battery, performance, app stores.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "mobile-security-coder",
+    "path": "skills/mobile-security-coder",
+    "category": "uncategorized",
+    "name": "Mobile Security Coder",
+    "description": "- Working on mobile security coder tasks or workflows - Needing guidance, best practices, or checklists for mobile security coder",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "modern-javascript-patterns",
@@ -5526,15 +6795,6 @@
     "source": "community"
   },
   {
-    "id": "network-engineer",
-    "path": "skills/network-engineer",
-    "category": "uncategorized",
-    "name": "Network Engineer",
-    "description": "- Working on network engineer tasks or workflows - Needing guidance, best practices, or checklists for network engineer",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "network-101",
     "path": "skills/network-101",
     "category": "uncategorized",
@@ -5542,6 +6802,15 @@
     "description": "This skill should be used when the user asks to \"set up a web server\", \"configure HTTP or HTTPS\", \"perform SNMP enumeration\", \"configure SMB shares\", \"test network services\", or ne...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "network-engineer",
+    "path": "skills/network-engineer",
+    "category": "uncategorized",
+    "name": "Network Engineer",
+    "description": "- Working on network engineer tasks or workflows - Needing guidance, best practices, or checklists for network engineer",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "nextjs-app-router-patterns",
@@ -6219,15 +7488,6 @@
     "source": "https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md"
   },
   {
-    "id": "python-pro",
-    "path": "skills/python-pro",
-    "category": "uncategorized",
-    "name": "Python Pro",
-    "description": "You are a Python expert specializing in modern Python 3.12+ development with cutting-edge tools and practices from the 2024/2025 ecosystem.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "python-development-python-scaffold",
     "path": "skills/python-development-python-scaffold",
     "category": "uncategorized",
@@ -6271,6 +7531,15 @@
     "description": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "python-pro",
+    "path": "skills/python-pro",
+    "category": "uncategorized",
+    "name": "Python Pro",
+    "description": "You are a Python expert specializing in modern Python 3.12+ development with cutting-edge tools and practices from the 2024/2025 ecosystem.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "python-testing-patterns",
@@ -6534,15 +7803,6 @@
     "source": "unknown"
   },
   {
-    "id": "rust-pro",
-    "path": "skills/rust-pro",
-    "category": "uncategorized",
-    "name": "Rust Pro",
-    "description": "You are a Rust expert specializing in modern Rust 1.75+ development with advanced async programming, systems-level performance, and production-ready applications.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "rust-async-patterns",
     "path": "skills/rust-async-patterns",
     "category": "uncategorized",
@@ -6550,6 +7810,15 @@
     "description": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "rust-pro",
+    "path": "skills/rust-pro",
+    "category": "uncategorized",
+    "name": "Rust Pro",
+    "description": "You are a Rust expert specializing in modern Rust 1.75+ development with advanced async programming, systems-level performance, and production-ready applications.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "saga-orchestration",
@@ -6669,24 +7938,6 @@
     "source": "community"
   },
   {
-    "id": "security-auditor",
-    "path": "skills/security-auditor",
-    "category": "uncategorized",
-    "name": "Security Auditor",
-    "description": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "security-scanning-security-sast",
-    "path": "skills/security-scanning-security-sast",
-    "category": "uncategorized",
-    "name": "Security Scanning Security Sast",
-    "description": "Static Application Security Testing (SAST) for comprehensive code vulnerability detection across multiple languages, frameworks, and security patterns.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "security-audit",
     "path": "skills/security-audit",
     "category": "uncategorized",
@@ -6694,6 +7945,15 @@
     "description": "Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening.",
     "risk": "safe",
     "source": "personal"
+  },
+  {
+    "id": "security-auditor",
+    "path": "skills/security-auditor",
+    "category": "uncategorized",
+    "name": "Security Auditor",
+    "description": "You are a security auditor specializing in DevSecOps, application security, and comprehensive cybersecurity practices.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "security-bluebook-builder",
@@ -6739,6 +7999,15 @@
     "description": "Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "security-scanning-security-sast",
+    "path": "skills/security-scanning-security-sast",
+    "category": "uncategorized",
+    "name": "Security Scanning Security Sast",
+    "description": "Static Application Security Testing (SAST) for comprehensive code vulnerability detection across multiple languages, frameworks, and security patterns.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "segment-automation",
@@ -7137,15 +8406,6 @@
     "source": "community"
   },
   {
-    "id": "sql-pro",
-    "path": "skills/sql-pro",
-    "category": "uncategorized",
-    "name": "Sql Pro",
-    "description": "You are an expert SQL specialist mastering modern database systems, performance optimization, and advanced analytical techniques across cloud-native and hybrid OLTP/OLAP environments.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "sql-injection-testing",
     "path": "skills/sql-injection-testing",
     "category": "uncategorized",
@@ -7162,6 +8422,15 @@
     "description": "Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when debugging slow queries, designing database...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "sql-pro",
+    "path": "skills/sql-pro",
+    "category": "uncategorized",
+    "name": "Sql Pro",
+    "description": "You are an expert SQL specialist mastering modern database systems, performance optimization, and advanced analytical techniques across cloud-native and hybrid OLTP/OLAP environments.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "sqlmap-database-pentesting",
@@ -7416,15 +8685,6 @@
     "source": "community"
   },
   {
-    "id": "team-composition-analysis",
-    "path": "skills/team-composition-analysis",
-    "category": "uncategorized",
-    "name": "Team Composition Analysis",
-    "description": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "team-collaboration-issue",
     "path": "skills/team-collaboration-issue",
     "category": "uncategorized",
@@ -7441,6 +8701,15 @@
     "description": "You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remote team coordination patterns.",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "team-composition-analysis",
+    "path": "skills/team-composition-analysis",
+    "category": "uncategorized",
+    "name": "Team Composition Analysis",
+    "description": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "telegram-automation",
@@ -7497,15 +8766,6 @@
     "source": "community"
   },
   {
-    "id": "terraform-specialist",
-    "path": "skills/terraform-specialist",
-    "category": "uncategorized",
-    "name": "Terraform Specialist",
-    "description": "You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "terraform-aws-modules",
     "path": "skills/terraform-aws-modules",
     "category": "uncategorized",
@@ -7540,6 +8800,15 @@
     "description": "Terraform infrastructure as code best practices",
     "risk": "safe",
     "source": "https://github.com/antonbabenko/terraform-skill"
+  },
+  {
+    "id": "terraform-specialist",
+    "path": "skills/terraform-specialist",
+    "category": "uncategorized",
+    "name": "Terraform Specialist",
+    "description": "You are a Terraform/OpenTofu specialist focused on advanced infrastructure automation, state management, and modern IaC practices.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "test-automator",
@@ -7722,6 +8991,15 @@
     "source": "community"
   },
   {
+    "id": "typescript-advanced-types",
+    "path": "skills/typescript-advanced-types",
+    "category": "uncategorized",
+    "name": "typescript-advanced-types",
+    "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex...",
+    "risk": "unknown",
+    "source": "community"
+  },
+  {
     "id": "typescript-expert",
     "path": "skills/typescript-expert",
     "category": "uncategorized",
@@ -7740,13 +9018,13 @@
     "source": "unknown"
   },
   {
-    "id": "typescript-advanced-types",
-    "path": "skills/typescript-advanced-types",
+    "id": "ui-skills",
+    "path": "skills/ui-skills",
     "category": "uncategorized",
-    "name": "typescript-advanced-types",
-    "description": "Master TypeScript's advanced type system including generics, conditional types, mapped types, template literals, and utility types for building type-safe applications. Use when implementing complex...",
-    "risk": "unknown",
-    "source": "community"
+    "name": "ui-skills",
+    "description": "Opinionated, evolving constraints to guide agents when building interfaces",
+    "risk": "safe",
+    "source": "https://github.com/ibelick/ui-skills"
   },
   {
     "id": "ui-ux-designer",
@@ -7758,24 +9036,6 @@
     "source": "unknown"
   },
   {
-    "id": "ui-visual-validator",
-    "path": "skills/ui-visual-validator",
-    "category": "uncategorized",
-    "name": "Ui Visual Validator",
-    "description": "- Working on ui visual validator tasks or workflows - Needing guidance, best practices, or checklists for ui visual validator",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
-    "id": "ui-skills",
-    "path": "skills/ui-skills",
-    "category": "uncategorized",
-    "name": "ui-skills",
-    "description": "Opinionated, evolving constraints to guide agents when building interfaces",
-    "risk": "safe",
-    "source": "https://github.com/ibelick/ui-skills"
-  },
-  {
     "id": "ui-ux-pro-max",
     "path": "skills/ui-ux-pro-max",
     "category": "uncategorized",
@@ -7783,6 +9043,15 @@
     "description": "UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui). Actions: plan, build, cr...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "ui-visual-validator",
+    "path": "skills/ui-visual-validator",
+    "category": "uncategorized",
+    "name": "Ui Visual Validator",
+    "description": "- Working on ui visual validator tasks or workflows - Needing guidance, best practices, or checklists for ui visual validator",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "unit-testing-test-generate",
@@ -8217,15 +9486,6 @@
     "source": "personal"
   },
   {
-    "id": "workflow-patterns",
-    "path": "skills/workflow-patterns",
-    "category": "uncategorized",
-    "name": "Workflow Patterns",
-    "description": "Guide for implementing tasks using Conductor's TDD workflow, managing phase checkpoints, handling git commits, and executing the verification protocol that ensures quality throughout implementation.",
-    "risk": "unknown",
-    "source": "unknown"
-  },
-  {
     "id": "workflow-automation",
     "path": "skills/workflow-automation",
     "category": "uncategorized",
@@ -8242,6 +9502,15 @@
     "description": "Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separation, saga patterns, state management, and determinism constraints. Use when building long-running ...",
     "risk": "unknown",
     "source": "community"
+  },
+  {
+    "id": "workflow-patterns",
+    "path": "skills/workflow-patterns",
+    "category": "uncategorized",
+    "name": "Workflow Patterns",
+    "description": "Guide for implementing tasks using Conductor's TDD workflow, managing phase checkpoints, handling git commits, and executing the verification protocol that ensures quality throughout implementation.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "wrike-automation",
